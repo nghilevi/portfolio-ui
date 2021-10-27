@@ -60,7 +60,7 @@ app.factory('autocompleteArrServ', [function() {
 
   var processData=function(data){
     $scope.projects = data;
-    $scope.searchOrder = ['rankId','-rating','name'];
+    $scope.searchOrder = ['rankId'];
     //$scope.direction='reverse';
     $scope.autocomplete=autocompleteArrServ.generate(data);  
   }

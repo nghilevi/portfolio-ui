@@ -1,715 +1,715 @@
 [
 	{
-		"_id": "a6",
-		"name": "moment-calendar-2",
-		"cat": "Web",
-		"technologies": "NodeJS, JavaScript",
-		"noImage": true,
-		"rating": 3,
-		"links": [
-			[
-				"github",
-				"https://github.com/vinhnghi223/moment-calendar-2"
-			],
-			[
-				"npm",
-				"https://www.npmjs.com/package/moment-calendar-2"
-			],
-			[
-				"demo",
-				"https://vinhnghi223.github.io/moment-calendar-2/"
-			]
+	  "_id": "a4",
+	  "name": "foundation-apps-modal",
+	  "cat": "Web",
+	  "technologies": "AngularJs, JavaScript",
+	  "noImage": false,
+	  "rating": 3,
+	  "links": [
+		[
+		  "demo",
+		  "http://vinhnghi223.github.io/foundation-apps-modal/#"
 		],
-		"description": "A super lightweight, easy-to-use yet powerful Node module to create month calendar where each date is a momentJS date.",
-		"rankId": 0
+		[
+		  "npm",
+		  "https://www.npmjs.com/package/foundation-apps-modal"
+		],
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/foundation-apps-modal"
+		]
+	  ],
+	  "description": "Zurb Foundation-apps modal with angular promises.",
+	  "rankId": 0
 	},
 	{
-		"_id": "a5",
-		"name": "ng-paginator",
-		"cat": "Web",
-		"technologies": "AngularJs, JavaScript",
-		"noImage": true,
-		"rating": 3,
-		"links": [
-			[
-				"github",
-				"https://github.com/vinhnghi223/ng-paginator"
-			],
-			[
-				"npm",
-				"https://www.npmjs.com/package/ng-paginator"
-			],
-			[
-				"demo",
-				"https://vinhnghi223.github.io/ng-paginator/"
-			]
+	  "_id": "a2",
+	  "name": "gulp-release-easy",
+	  "noImage": false,
+	  "cat": "NodeJS",
+	  "technologies": "JavaScript, NodeJS",
+	  "rating": 3,
+	  "links": [
+		[
+		  "npm",
+		  "https://www.npmjs.com/package/gulp-release-easy"
 		],
-		"description": "Pagination component for Angular 1.x, displaying the sequence of numbers assigned to pages in a book or periodical.",
-		"rankId": 0
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/gulp-release-easy"
+		]
+	  ],
+	  "description": "A gulp plugin that helps you automate releasing and publishing to NPM easy than ever! All you need to do is issue gulp release. I've used it in my pet project as well as used it to publish itself!",
+	  "rankId": 1
 	},
 	{
-		"_id": "a4",
-		"name": "foundation-apps-modal",
-		"cat": "Web",
-		"technologies": "AngularJs, JavaScript",
-		"noImage": true,
-		"rating": 3,
-		"links": [
-			[
-				"demo",
-				"http://vinhnghi223.github.io/foundation-apps-modal/#"
-			],
-			[
-				"npm",
-				"https://www.npmjs.com/package/foundation-apps-modal"
-			],
-			[
-				"github",
-				"https://github.com/vinhnghi223/foundation-apps-modal"
-			]
+	  "_id": "a6",
+	  "name": "moment-calendar-2",
+	  "cat": "Web",
+	  "technologies": "NodeJS, JavaScript",
+	  "noImage": false,
+	  "rating": 3,
+	  "links": [
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/moment-calendar-2"
 		],
-		"description": "Zurb Foundation-apps modal with angular promises.",
-		"rankId": 0
+		[
+		  "npm",
+		  "https://www.npmjs.com/package/moment-calendar-2"
+		],
+		[
+		  "demo",
+		  "https://vinhnghi223.github.io/moment-calendar-2/"
+		]
+	  ],
+	  "description": "A super lightweight, easy-to-use yet powerful Node module to create month calendar where each date is a momentJS date.",
+	  "rankId": 2
 	},
 	{
-		"_id": "a3",
-		"name": "ng-checkbox",
-		"cat": "JavaScript, Gulp",
-		"technologies": "JavaScript",
-		"noImage": true,
-		"rating": 3,
-		"links": [
-			[
-				"demo",
-				"http://vinhnghi223.github.io/ng-checkbox/#/demo"
-			],
-			[
-				"npm",
-				"https://www.npmjs.com/package/ng-checkbox"
-			],
-			[
-				"github",
-				"https://github.com/vinhnghi223/ng-checkbox"
-			]
+	  "_id": "a3",
+	  "name": "ng-checkbox",
+	  "cat": "JavaScript, Gulp",
+	  "technologies": "JavaScript",
+	  "noImage": false,
+	  "rating": 3,
+	  "links": [
+		[
+		  "demo",
+		  "http://vinhnghi223.github.io/ng-checkbox/#/demo"
 		],
-		"description": "A gulp plugin that helps you automate releasing and publishing to NPM easy than ever! All you need to do is issue gulp release. I've used it in my pet project as well as used it to publish itself!",
-		"rankId": 0
+		[
+		  "npm",
+		  "https://www.npmjs.com/package/ng-checkbox"
+		],
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/ng-checkbox"
+		]
+	  ],
+	  "description": "A gulp plugin that helps you automate releasing and publishing to NPM easy than ever! All you need to do is issue gulp release. I've used it in my pet project as well as used it to publish itself!",
+	  "rankId": 3
 	},
 	{
-		"_id": "a2",
-		"name": "gulp-release-easy",
-		"noImage": true,
-		"cat": "NodeJS",
-		"technologies": "JavaScript, NodeJS",
-		"rating": 3,
-		"links": [
-			[
-				"npm",
-				"https://www.npmjs.com/package/gulp-release-easy"
-			],
-			[
-				"github",
-				"https://github.com/vinhnghi223/gulp-release-easy"
-			]
+	  "_id": "a5",
+	  "name": "ng-paginator",
+	  "cat": "Web",
+	  "technologies": "AngularJs, JavaScript",
+	  "noImage": false,
+	  "rating": 3,
+	  "links": [
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/ng-paginator"
 		],
-		"description": "A gulp plugin that helps you automate releasing and publishing to NPM easy than ever! All you need to do is issue gulp release. I've used it in my pet project as well as used it to publish itself!",
-		"rankId": 0
+		[
+		  "npm",
+		  "https://www.npmjs.com/package/ng-paginator"
+		],
+		[
+		  "demo",
+		  "https://vinhnghi223.github.io/ng-paginator/"
+		]
+	  ],
+	  "description": "Pagination component for Angular 1.x, displaying the sequence of numbers assigned to pages in a book or periodical.",
+	  "rankId": 4
 	},
 	{
-		"_id": "a1",
-		"name": "venues-rest-api",
-		"noImage": true,
-		"cat": "API",
-		"technologies": "Java, Springboot",
-		"rating": 3,
-		"links": [
-			[
-				"github",
-				"https://github.com/vinhnghi223/venues-rest-api"
-			]
-		],
-		"description": "REST API to fetch venues data using Springboot",
-		"rankId": 0
+	  "_id": "abc",
+	  "name": "Nordea",
+	  "cat": "Web",
+	  "technologies": "Angular, TypeScript, AngularJS, HTML5, CSS3, Sass, JavaScript",
+	  "rating": 3,
+	  "links": [
+		[
+		  "demo",
+		  "https://netbank.nordea.fi/#!/"
+		]
+	  ],
+	  "description": "Relationship Banking Online - new private netbank project for household customers",
+	  "rankId": 5
 	},
 	{
-		"_id": "abc",
-		"name": "RBO Banking",
-		"cat": "Web",
-		"technologies": "AngularJS, HTML5, CSS3, Sass, JavaScript",
-		"rating": 3,
-		"links": [
-			[
-				"demo",
-				"https://netbank.nordea.fi/#!/"
-			]
-		],
-		"description": "Relationship Banking Online - new private netbank project for household customers",
-		"rankId": 0
+	  "_id": "55239b8bebd4f06aa95fed09",
+	  "name": "Near By Location Android App",
+	  "cat": "Mobile App",
+	  "technologies": "Java, Android, Android Studio",
+	  "rating": 3,
+	  "links": [
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/Near-By-Location-Android-App"
+		]
+	  ],
+	  "description": "A great lightweight app that allows students to quickly locate rooms in just less than 0.1 second.",
+	  "rankId": 6
 	},
 	{
-		"_id": "55239b8bebd4f06aa95fed08",
-		"name": "Ventoura",
-		"cat": "Mobile App",
-		"technologies": "Java, Android, Eclipse, Android Studio",
-		"rating": 3,
-		"links": [
-			[
-				"demo",
-				"http://www.ventoura.com/"
-			],
-			[
-				"playstore",
-				"https://play.google.com/store/apps/details?id=com.Mindelo.Ventoura.UI.Activity"
-			]
+	  "_id": "55239b8bebd4f06aa95fed08",
+	  "name": "Ventoura",
+	  "cat": "Mobile App",
+	  "technologies": "Java, Android, Eclipse, Android Studio",
+	  "rating": 3,
+	  "links": [
+		[
+		  "demo",
+		  "https://ventoura.com/"
 		],
-		"description": "Offer the local experience for the travellers. Launching soon!",
-		"rankId": 12
+		[
+		  "playstore",
+		  "https://play.google.com/store/apps/details?id=com.Mindelo.Ventoura.UI.Activity"
+		]
+	  ],
+	  "description": "Offer the local experience for the travellers. Launching soon!",
+	  "rankId": 7
 	},
 	{
-		"_id": "55239b8bebd4f06aa95fed1b",
-		"name": "vinhnghi223.github.io",
-		"cat": "Web",
-		"technologies": "AngularJS, Grunt, MongoDB, Yeoman, Bower, JavaScript, HTML5, CSS3, Bootstrap",
-		"rating": 3,
-		"links": [
-			[
-				"github",
-				"https://github.com/vinhnghi223/vinhnghi223.github.io"
-			],
-			[
-				"demo",
-				"http://vinhnghi223.github.io/#/"
-			]
+	  "_id": "",
+	  "name": "Createtrips.com",
+	  "cat": "Web App",
+	  "technologies": "AngularJS, JavaScript, Jasmine, Karma, Grunt, Protractor, Unit testing, E2E testing",
+	  "rating": 3,
+	  "links": [
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/Near-By-Location-Android-App"
 		],
-		"description": "",
-		"rankId": 13
+		[
+		  "demo",
+		  "http://vinhnghi223.github.io/nLocationApp/"
+		]
+	  ],
+	  "description": "NearByLocation Web app using Foursquare API v2",
+	  "rankId": 8
 	},
 	{
-		"_id": "55239b8bebd4f06aa95fed09",
-		"name": "Near By Location Android App",
-		"cat": "Mobile App",
-		"technologies": "Java, Android, Android Studio",
-		"rating": 3,
-		"links": [
-			[
-				"github",
-				"https://github.com/vinhnghi223/Near-By-Location-Android-App"
-			]
-		],
-		"description": "A great lightweight app that allows students to quickly locate rooms in just less than 0.1 second.",
-		"rankId": 21
+	  "_id": "55239b8bebd4f06aa95fed06",
+	  "name": "meetingpackage.com",
+	  "cat": "Web",
+	  "technologies": "HTML5, CSS3, JavaScript, PHP, Drupal",
+	  "rating": 3,
+	  "links": [
+		[
+		  "demo",
+		  "https://meetingpackage.com/"
+		]
+	  ],
+	  "description": "You can find a full range of conference packages easily on this website",
+	  "rankId": 9
 	},
 	{
-		"_id": "",
-		"name": "Near By Location Web App",
-		"cat": "Web App",
-		"technologies": "AngularJS, JavaScript, Jasmine, Karma, Grunt, Protractor, Unit testing, E2E testing",
-		"rating": 3,
-		"links": [
-      [
-        "github",
-        "https://github.com/vinhnghi223/Near-By-Location-Android-App"
-      ],
-      [
-        "demo",
-        "http://vinhnghi223.github.io/nLocationApp/"
-      ]
-		],
-		"description": "NearByLocation Web app using Foursquare API v2",
-		"rankId": 21
+	  "_id": "55239b8bebd4f06aa95fed21",
+	  "name": "Datafarmer UI",
+	  "cat": "Web",
+	  "technologies": "AngularJS, JavaScript, CoffeeScript, HTML5, CSS3, Bootstrap, Grunt",
+	  "rating": 3,
+	  "links": [
+		[
+		  "demo",
+		  "http://www.ba-group.fi/data-farmer/"
+		]
+	  ],
+	  "description": "",
+	  "rankId": 10
 	},
 	{
-		"_id": "55239b8bebd4f06aa95fed0a",
-		"name": "Laurea Room Finder",
-		"cat": "Mobile App",
-		"technologies": "HTML5, CSS3, JavaScript, JQuery, PhoneGap/Cordova",
-		"rating": 3,
-		"links": [
-			[
-				"github",
-				"https://github.com/vinhnghi223/Room-and-Offices-Finder"
-			],
-			[
-				"demo",
-				"http://vinhnghi223.github.io/Room-and-Offices-Finder/"
-			],
-			[
-				"download",
-				"https://play.google.com/store/apps/details?id=fi.virgo.lrf"
-			],
-			[
-				"playstore",
-				"https://play.google.com/store/apps/details?id=fi.virgo.lrf"
-			]
+	  "_id": "55239b8bebd4f06aa95fed1b",
+	  "name": "vinhnghi223.github.io",
+	  "cat": "Web",
+	  "technologies": "AngularJS, Grunt, MongoDB, Yeoman, Bower, JavaScript, HTML5, CSS3, Bootstrap",
+	  "rating": 3,
+	  "links": [
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/vinhnghi223.github.io"
 		],
-		"description": "A great lightweight app that allows students to quickly locate rooms in just less than 0.1 second.",
-		"rankId": 22
+		[
+		  "demo",
+		  "http://vinhnghi223.github.io/#/"
+		]
+	  ],
+	  "description": "",
+	  "rankId": 11
 	},
 	{
-		"_id": "55239b8bebd4f06aa95fed0b",
-		"name": "Real Time Pedometer App",
-		"cat": "Mobile App, Web",
-		"technologies": "Android, Java, JavaScript, AngularJS, Bootstrap, JQuery, Firebase, D3.js",
-		"rating": 3,
-		"links": [
-			[
-				"github",
-				"https://github.com/vinhnghi223/Pedometer-App"
-			],
-			[
-				"demo",
-				"http://vinhnghi223.github.io/Pedometer-App/Pedometer-Web-App/"
-			],
-			[
-				"download",
-				"http://goo.gl/THILXx"
-			],
-			[
-				"youtube",
-				"http://goo.gl/S9762r"
-			]
+	  "_id": "55239b8bebd4f06aa95fed1f",
+	  "name": "Finnish Tax Office App",
+	  "cat": "Web",
+	  "technologies": "JavaScript, HTML5, CSS3, Axure",
+	  "rating": 2,
+	  "links": [
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/Finnish-Tax-Office-App"
 		],
-		"description": "",
-		"rankId": 23
+		[
+		  "demo",
+		  "http://clm2qc.axshare.com/"
+		]
+	  ],
+	  "description": "",
+	  "rankId": 12
 	},
 	{
-		"_id": "55239b8bebd4f06aa95fed14",
-		"name": "Anjalanvpk.fi",
-		"cat": "Web",
-		"technologies": "HTML5, CSS3, JavaScript, Drupal",
-		"rating": 3,
-		"links": [
-			[
-				"github",
-				"https://github.com/vinhnghi223/WEB-LAB/tree/gh-pages/anjalanvpk.fi"
-			],
-			[
-				"demo",
-				"http://anjalanvpk.fi/sis%C3%A4lt%C3%B6/ajoneuvot"
-			]
+	  "_id": "55239b8bebd4f06aa95fed14",
+	  "name": "Anjalanvpk.fi",
+	  "cat": "Web",
+	  "technologies": "HTML5, CSS3, JavaScript, Drupal",
+	  "rating": 3,
+	  "links": [
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/WEB-LAB/tree/gh-pages/anjalanvpk.fi"
 		],
-		"description": "",
-		"rankId": 31
+		[
+		  "demo",
+		  "http://anjalanvpk.fi/sis%C3%A4lt%C3%B6/ajoneuvot"
+		]
+	  ],
+	  "description": "",
+	  "rankId": 13
 	},
 	{
-		"_id": "55239b8bebd4f06aa95fed06",
-		"name": "Kokouspaketit.com",
-		"cat": "Web",
-		"technologies": "HTML5, CSS3, JavaScript, PHP, Drupal",
-		"rating": 3,
-		"links": [
-			[
-				"demo",
-				"http://www.kokouspaketit.com/"
-			]
+	  "_id": "55239b8bebd4f06aa95fed0a",
+	  "name": "Laurea Room Finder",
+	  "cat": "Mobile App",
+	  "technologies": "HTML5, CSS3, JavaScript, JQuery, PhoneGap/Cordova",
+	  "rating": 3,
+	  "links": [
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/Room-and-Offices-Finder"
 		],
-		"description": "You can find a full range of conference packages easily on this website",
-		"rankId": 32
+		[
+		  "demo",
+		  "http://vinhnghi223.github.io/Room-and-Offices-Finder/"
+		],
+		[
+		  "download",
+		  "https://play.google.com/store/apps/details?id=fi.virgo.lrf"
+		],
+		[
+		  "playstore",
+		  "https://play.google.com/store/apps/details?id=fi.virgo.lrf"
+		]
+	  ],
+	  "description": "A great lightweight app that allows students to quickly locate rooms in just less than 0.1 second.",
+	  "rankId": 14
 	},
 	{
-		"_id": "55239b8bebd4f06aa95fed0e",
-		"name": "Bar Laurea Android Application",
-		"cat": "Mobile App",
-		"technologies": "Java, Android, Eclipse",
-		"rating": 3,
-		"links": [
-			[
-				"github",
-				"https://github.com/vinhnghi223/Beverage-Shop-Android-App"
-			],
-			[
-				"youtube",
-				"https://www.youtube.com/watch?v=3MRKoL75MOo"
-			],
-			[
-				"playstore",
-				"coming-soon-september-2014"
-			]
+	  "_id": "55239b8bebd4f06aa95fed0d",
+	  "name": "Real Time Menu App",
+	  "cat": "Mobile App, Web",
+	  "technologies": "Java, Android, Eclipse, Wordpress, JavaScript, AngularJS, Bootstrap, Firebase",
+	  "rating": 3,
+	  "links": [
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/Real-Time-Menu-App"
 		],
-		"description": "",
-		"rankId": 33
+		[
+		  "demo",
+		  "http://goo.gl/WnNuzm"
+		],
+		[
+		  "download",
+		  "http://goo.gl/WdPE0E"
+		]
+	  ],
+	  "description": "",
+	  "rankId": 15
 	},
 	{
-		"_id": "55239b8bebd4f06aa95fed18",
-		"name": "Aiesec-hy.fi",
-		"cat": "Web",
-		"technologies": "HTML5, CSS3, JavaScript, Bootstrap",
-		"rating": 3,
-		"links": [
-			[
-				"github",
-				"https://github.com/vinhnghi223/aiesec-hy.fi"
-			],
-			[
-				"demo",
-				"http://vinhnghi223.github.io/aiesec-hy.fi/"
-			]
+	  "_id": "55239b8bebd4f06aa95fed0e",
+	  "name": "Bar Laurea Android Application",
+	  "cat": "Mobile App",
+	  "technologies": "Java, Android, Eclipse",
+	  "rating": 3,
+	  "links": [
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/Beverage-Shop-Android-App"
 		],
-		"description": "",
-		"rankId": 41
+		[
+		  "youtube",
+		  "https://www.youtube.com/watch?v=3MRKoL75MOo"
+		],
+		[
+		  "playstore",
+		  "coming-soon-september-2014"
+		]
+	  ],
+	  "description": "",
+	  "rankId": 16
 	},
 	{
-		"_id": "55239b8bebd4f06aa95fed0c",
-		"name": "Smart Mobile Expense Manager",
-		"cat": "Mobile App",
-		"technologies": "Java, Android, Android Studio",
-		"rating": 3,
-		"links": [
-			[
-				"github",
-				"https://github.com/vinhnghi223/Smart-Mobile-Expense-Manager"
-			],
-			[
-				"download",
-				"https://github.com/PROMAND/Project-5/blob/master/smem-1.0.rar"
-			],
-			[
-				"youtube",
-				"http://goo.gl/ExLgMx"
-			]
+	  "_id": "55239b8bebd4f06aa95fed18",
+	  "name": "Aiesec-hy.fi",
+	  "cat": "Web",
+	  "technologies": "HTML5, CSS3, JavaScript, Bootstrap",
+	  "rating": 3,
+	  "links": [
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/aiesec-hy.fi"
 		],
-		"description": "",
-		"rankId": 42
+		[
+		  "demo",
+		  "http://vinhnghi223.github.io/aiesec-hy.fi/"
+		]
+	  ],
+	  "description": "",
+	  "rankId": 17
 	},
 	{
-		"_id": "55239b8bebd4f06aa95fed0d",
-		"name": "Real Time Menu App",
-		"cat": "Mobile App, Web",
-		"technologies": "Java, Android, Eclipse, Wordpress, JavaScript, AngularJS, Bootstrap, Firebase",
-		"rating": 3,
-		"links": [
-			[
-				"github",
-				"https://github.com/vinhnghi223/Real-Time-Menu-App"
-			],
-			[
-				"demo",
-				"http://goo.gl/WnNuzm"
-			],
-			[
-				"download",
-				"http://goo.gl/WdPE0E"
-			]
+	  "_id": "55239b8bebd4f06aa95fed0c",
+	  "name": "Smart Mobile Expense Manager",
+	  "cat": "Mobile App",
+	  "technologies": "Java, Android, Android Studio",
+	  "rating": 3,
+	  "links": [
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/Smart-Mobile-Expense-Manager"
 		],
-		"description": "",
-		"rankId": 43
+		[
+		  "download",
+		  "https://github.com/PROMAND/Project-5/blob/master/smem-1.0.rar"
+		],
+		[
+		  "youtube",
+		  "http://goo.gl/ExLgMx"
+		]
+	  ],
+	  "description": "",
+	  "rankId": 18
 	},
 	{
-		"_id": "55239b8bebd4f06aa95fed1e",
-		"name": "Giggle Bug",
-		"cat": "Game",
-		"technologies": "JavaScript, HTML5, CSS3",
-		"rating": 3,
-		"links": [
-			[
-				"demo",
-				"http://www.gigglebug.tv/"
-			]
-		],
-		"description": "",
-		"rankId": 51
+	  "_id": "55239b8bebd4f06aa95fed1e",
+	  "name": "Giggle Bug",
+	  "cat": "Game",
+	  "technologies": "JavaScript, HTML5, CSS3",
+	  "rating": 3,
+	  "links": [
+		[
+		  "demo",
+		  "http://www.gigglebug.tv/"
+		]
+	  ],
+	  "description": "",
+	  "rankId": 19
 	},
 	{
-		"_id": "55239b8bebd4f06aa95fed07",
-		"name": "Student Directory",
-		"cat": "Web",
-		"technologies": "MongoDB, ExpressJS, AngularJS, NodeJS, Bootstrap, Grunt",
-		"rating": 3,
-		"links": [
-			[
-				"github",
-				"https://github.com/vinhnghi223/Student-Directory"
-			],
-			[
-				"demo",
-				"https://student-directory-uog.herokuapp.com/#/"
-			]
+	  "_id": "55239b8bebd4f06aa95fed07",
+	  "name": "Student Directory",
+	  "cat": "Web",
+	  "technologies": "MongoDB, ExpressJS, AngularJS, NodeJS, Bootstrap, Grunt",
+	  "rating": 3,
+	  "links": [
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/Student-Directory"
 		],
-		"description": "A simple yet efficient web app for managing student buit using MEAN stack",
-		"rankId": 52
+		[
+		  "demo",
+		  "https://student-directory-uog.herokuapp.com/#/"
+		]
+	  ],
+	  "description": "A simple yet efficient web app for managing student buit using MEAN stack",
+	  "rankId": 20
 	},
 	{
-		"_id": "55239b8bebd4f06aa95fed21",
-		"name": "Datafarmer UI",
-		"cat": "Web",
-		"technologies": "AngularJS, JavaScript, CoffeeScript, HTML5, CSS3, Bootstrap, Grunt",
-		"rating": 3,
-		"links": [
-			[
-				"demo",
-				"http://www.ba-group.fi/data-farmer/"
-			]		
+	  "_id": "55239b8bebd4f06aa95fed0b",
+	  "name": "Real Time Pedometer App",
+	  "cat": "Mobile App, Web",
+	  "technologies": "Android, Java, JavaScript, AngularJS, Bootstrap, JQuery, Firebase, D3.js",
+	  "rating": 3,
+	  "links": [
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/Pedometer-App"
 		],
-		"description": "",
-		"rankId": 20
+		[
+		  "demo",
+		  "http://vinhnghi223.github.io/Pedometer-App/Pedometer-Web-App/"
+		],
+		[
+		  "download",
+		  "http://goo.gl/THILXx"
+		],
+		[
+		  "youtube",
+		  "http://goo.gl/S9762r"
+		]
+	  ],
+	  "description": "",
+	  "rankId": 21
 	},
 	{
-		"_id": "55239b8bebd4f06aa95fed20",
-		"name": "Epvs.edu.vn",
-		"cat": "Web",
-		"technologies": "JavaScript, HTML5, CSS3",
-		"rating": 2,
-		"links": [
-			[
-				"github",
-				"https://github.com/vinhnghi223/WEB-APPS-PROJECTS/tree/gh-pages/epsvn.com"
-			],
-			[
-				"demo",
-				"http://epvs.edu.vn/en/"
-			],
-			[
-				"demo",
-				"http://vinhnghi223.github.io/WEB-APPS-PROJECTS/epsvn.com/home.html"
-			]
+	  "_id": "55239b8bebd4f06aa95fed20",
+	  "name": "Epvs.edu.vn",
+	  "cat": "Web",
+	  "technologies": "JavaScript, HTML5, CSS3",
+	  "rating": 2,
+	  "links": [
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/WEB-APPS-PROJECTS/tree/gh-pages/epsvn.com"
 		],
-		"description": "",
-		"rankId": 61
+		[
+		  "demo",
+		  "http://epvs.edu.vn/en/"
+		],
+		[
+		  "demo",
+		  "http://vinhnghi223.github.io/WEB-APPS-PROJECTS/epsvn.com/home.html"
+		]
+	  ],
+	  "description": "",
+	  "rankId": 22
 	},
 	{
-		"_id": "55239b8bebd4f06aa95fed17",
-		"name": "Hetihierontaan.fi",
-		"cat": "Web",
-		"technologies": "Wordpress, PHP, HTML5, CSS3, JavaScript",
-		"rating": 2,
-		"links": [
-			[
-				"github",
-				"https://github.com/vinhnghi223/hetihierontaan.fi"
-			],
-			[
-				"demo",
-				"http://www.hetihierontaan.fi/"
-			]
+	  "_id": "55239b8bebd4f06aa95fed17",
+	  "name": "Hetihierontaan.fi",
+	  "cat": "Web",
+	  "technologies": "Wordpress, PHP, HTML5, CSS3, JavaScript",
+	  "rating": 2,
+	  "links": [
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/hetihierontaan.fi"
 		],
-		"description": "",
-		"rankId": 62
+		[
+		  "demo",
+		  "http://www.hetihierontaan.fi/"
+		]
+	  ],
+	  "description": "",
+	  "rankId": 23
 	},
 	{
-		"_id": "55239b8bebd4f06aa95fed1a",
-		"name": "Codingisloving.com",
-		"cat": "Web",
-		"technologies": "PHP, Wordpress",
-		"rating": 2,
-		"links": [
-			[
-				"demo",
-				"http://www.codingisloving.com/"
-			],
-      [
-        "retired",
-        "#/my-work"
-      ]
+	  "_id": "55239b8bebd4f06aa95fed19",
+	  "name": "Kipukorjaus.fi",
+	  "cat": "Web",
+	  "technologies": "PHP, Wordpress, JavaScript",
+	  "rating": 2,
+	  "links": [
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/WEB-LAB/tree/gh-pages/hoi2.info"
 		],
-		"description": "",
-		"rankId": 63
+		[
+		  "demo",
+		  "http://kipukorjaus.fi/"
+		]
+	  ],
+	  "description": "",
+	  "rankId": 24
 	},
 	{
-		"_id": "55239b8bebd4f06aa95fed0f",
-		"name": "Product Showcase App",
-		"cat": "Mobile App",
-		"technologies": "PhoneGap/Cordova, JQuery Mobile",
-		"rating": 2,
-		"links": [
-			[
-				"github",
-				"https://github.com/vinhnghi223/Product-Showcase-App"
-			],
-			[
-				"demo",
-				"http://vinhnghi223.github.io/Product-Showcase-App/"
-			]
-		],
-		"description": "",
-		"rankId": 71
+	  "_id": "55239b8bebd4f06aa95fed1d",
+	  "name": "Game Portfolio Wordpress Theme",
+	  "cat": "Web",
+	  "technologies": "Wordpress, PHP, HTML5, CSS3",
+	  "rating": 3,
+	  "links": [
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/Game-Portfolio-Website"
+		]
+	  ],
+	  "description": "",
+	  "rankId": 25
 	},
 	{
-		"_id": "55239b8bebd4f06aa95fed16",
-		"name": "The Great Escape",
-		"cat": "Game",
-		"technologies": "HTML5, JavaScript, Construct2",
-		"rating": 3,
-		"links": [
-			[
-				"github",
-				"https://github.com/vinhnghi223/HTML5-GAMES/tree/master/The%20Great%20Escape"
-			],
-			[
-				"demo",
-				"http://vinhnghi223.github.io/HTML5-GAMES/The%20Great%20Escape/"
-			],
-			[
-				"youtube",
-				"https://www.youtube.com/watch?v=seTbVO0Lb1E"
-			]
+	  "_id": "55239b8bebd4f06aa95fed16",
+	  "name": "The Great Escape",
+	  "cat": "Game",
+	  "technologies": "HTML5, JavaScript, Construct2",
+	  "rating": 3,
+	  "links": [
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/HTML5-GAMES/tree/master/The%20Great%20Escape"
 		],
-		"description": "",
-		"rankId": 72
+		[
+		  "demo",
+		  "http://vinhnghi223.github.io/HTML5-GAMES/The%20Great%20Escape/"
+		],
+		[
+		  "youtube",
+		  "https://www.youtube.com/watch?v=seTbVO0Lb1E"
+		]
+	  ],
+	  "description": "",
+	  "rankId": 26
 	},
 	{
-		"_id": "55239b8bebd4f06aa95fed10",
-		"name": "Note Taking App For Android",
-		"cat": "Mobile App",
-		"technologies": "Java, Android, Eclipse",
-		"rating": 2,
-		"links": [
-			[
-				"github",
-				"https://github.com/vinhnghi223/Note-Taking-App-For-Android"
-			],
-			[
-				"download",
-				"https://github.com/vinhnghi223/Note-Taking-App-For-Android/blob/master/SimpleNoteForAndroid.apk"
-			]
+	  "_id": "55239b8bebd4f06aa95fed0f",
+	  "name": "Product Showcase App",
+	  "cat": "Mobile App",
+	  "technologies": "PhoneGap/Cordova, JQuery Mobile",
+	  "rating": 2,
+	  "links": [
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/Product-Showcase-App"
 		],
-		"description": "",
-		"rankId": 73
+		[
+		  "demo",
+		  "http://vinhnghi223.github.io/Product-Showcase-App/"
+		]
+	  ],
+	  "description": "",
+	  "rankId": 27
 	},
 	{
-		"_id": "55239b8bebd4f06aa95fed19",
-		"name": "Kipukorjaus.fi",
-		"cat": "Web",
-		"technologies": "PHP, Wordpress, JavaScript",
-		"rating": 2,
-		"links": [
-			[
-				"github",
-				"https://github.com/vinhnghi223/WEB-LAB/tree/gh-pages/hoi2.info"
-			],
-			[
-				"demo",
-				"http://kipukorjaus.fi/"
-			]
+	  "_id": "55239b8bebd4f06aa95fed10",
+	  "name": "Note Taking App For Android",
+	  "cat": "Mobile App",
+	  "technologies": "Java, Android, Eclipse",
+	  "rating": 2,
+	  "links": [
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/Note-Taking-App-For-Android"
 		],
-		"description": "",
-		"rankId": 81
+		[
+		  "download",
+		  "https://github.com/vinhnghi223/Note-Taking-App-For-Android/blob/master/SimpleNoteForAndroid.apk"
+		]
+	  ],
+	  "description": "",
+	  "rankId": 28
 	},
 	{
-		"_id": "55239b8bebd4f06aa95fed1d",
-		"name": "Game Portfolio Wordpress Theme",
-		"cat": "Web",
-		"technologies": "Wordpress, PHP, HTML5, CSS3",
-		"rating": 3,
-		"links": [
-			[
-				"github",
-				"https://github.com/vinhnghi223/Game-Portfolio-Website"
-			]
+	  "_id": "55239b8bebd4f06aa95fed12",
+	  "name": "Sheep Counting App",
+	  "cat": "Mobile App",
+	  "technologies": "PhoneGap, HTML5, JQuery Mobile",
+	  "rating": 1,
+	  "links": [
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/Sheep-Counting-App"
 		],
-		"description": "",
-		"rankId": 82
+		[
+		  "download",
+		  "https://build.phonegap.com/apps/700791/share"
+		]
+	  ],
+	  "description": "",
+	  "rankId": 29
 	},
 	{
-		"_id": "55239b8bebd4f06aa95fed15",
-		"name": "Lake Volleyball",
-		"cat": "Game",
-		"technologies": "HTML5, JavaScript, Construct2",
-		"rating": 2,
-		"links": [
-			[
-				"github",
-				"https://github.com/vinhnghi223/HTML5-GAMES/tree/master/Lake%20Volleyball"
-			],
-			[
-				"demo",
-				"http://vinhnghi223.github.io/HTML5-GAMES/Lake%20Volleyball/"
-			]
+	  "_id": "55239b8bebd4f06aa95fed15",
+	  "name": "Lake Volleyball",
+	  "cat": "Game",
+	  "technologies": "HTML5, JavaScript, Construct2",
+	  "rating": 2,
+	  "links": [
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/HTML5-GAMES/tree/master/Lake%20Volleyball"
 		],
-		"description": "",
-		"rankId": 83
+		[
+		  "demo",
+		  "http://vinhnghi223.github.io/HTML5-GAMES/Lake%20Volleyball/"
+		]
+	  ],
+	  "description": "",
+	  "rankId": 30
 	},
 	{
-		"_id": "55239b8bebd4f06aa95fed1f",
-		"name": "Finnish Tax Office App",
-		"cat": "Web",
-		"technologies": "JavaScript, HTML5, CSS3, Axure",
-		"rating": 2,
-		"links": [
-			[
-				"github",
-				"https://github.com/vinhnghi223/Finnish-Tax-Office-App"
-			],
-			[
-				"demo",
-				"http://clm2qc.axshare.com/"
-			]
+	  "_id": "55239b8bebd4f06aa95fed1a",
+	  "name": "Codingisloving.com",
+	  "cat": "Web",
+	  "technologies": "PHP, Wordpress",
+	  "rating": 2,
+	  "links": [
+		[
+		  "demo",
+		  "http://www.codingisloving.com/"
 		],
-		"description": "",
-		"rankId": 91
+		[
+		  "retired",
+		  "#/my-work"
+		]
+	  ],
+	  "description": "",
+	  "rankId": 31
 	},
 	{
-		"_id": "55239b8bebd4f06aa95fed11",
-		"name": "Polish Zloty To Euro Conversion",
-		"noImage": true,
-		"cat": "Mobile App",
-		"technologies": "Java, Android, Android Studio",
-		"rating": 1,
-		"links": [
-			[
-				"github",
-				"https://github.com/vinhnghi223/Polish-Zloty-To-Euro-Conversion"
-			],
-			[
-				"download",
-				"https://github.com/vinhnghi223/Polish-Zloty-To-Euro-Conversion/blob/master/pln2eur-v1.apk"
-			]
-		],
-		"description": "",
-		"rankId": 92
+	  "_id": "a1",
+	  "name": "venues-rest-api",
+	  "noImage": false,
+	  "cat": "API",
+	  "technologies": "Java, Springboot",
+	  "rating": 3,
+	  "links": [
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/venues-rest-api"
+		]
+	  ],
+	  "description": "REST API to fetch venues data using Springboot",
+	  "rankId": 32
 	},
 	{
-		"_id": "55239b8bebd4f06aa95fed1c",
-		"name": "QR Code Generator",
-		"noImage": true,
-		"cat": "Hybrid",
-		"technologies": "JavaScript, HTML5, CSS3, jQuery, PhoneGap/Cordova",
-		"rating": 2,
-		"links": [
-			[
-				"github",
-				"https://github.com/vinhnghi223/WEB-APPS-PROJECTS/tree/gh-pages/QR-Generator"
-			],
-			[
-				"demo",
-				"https://vinhnghi223.github.io/WEB-APPS-PROJECTS/QR-Generator/www/"
-			]
+	  "_id": "55239b8bebd4f06aa95fed11",
+	  "name": "Polish Zloty To Euro Conversion",
+	  "noImage": true,
+	  "cat": "Mobile App",
+	  "technologies": "Java, Android, Android Studio",
+	  "rating": 1,
+	  "links": [
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/Polish-Zloty-To-Euro-Conversion"
 		],
-		"description": "",
-		"rankId": 93
+		[
+		  "download",
+		  "https://github.com/vinhnghi223/Polish-Zloty-To-Euro-Conversion/blob/master/pln2eur-v1.apk"
+		]
+	  ],
+	  "description": "",
+	  "rankId": 33
 	},
 	{
-		"_id": "55239b8bebd4f06aa95fed13",
-		"name": "Body Mass Index Calculator",
-		"noImage": true,
-		"cat": "Mobile App",
-		"technologies": "Java, Android, Eclipse",
-		"rating": 1,
-		"links": [
-			[
-				"github",
-				"https://github.com/vinhnghi223/Body-Mass-Index-Calculator"
-			]
+	  "_id": "55239b8bebd4f06aa95fed1c",
+	  "name": "QR Code Generator",
+	  "noImage": true,
+	  "cat": "Hybrid",
+	  "technologies": "JavaScript, HTML5, CSS3, jQuery, PhoneGap/Cordova",
+	  "rating": 2,
+	  "links": [
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/WEB-APPS-PROJECTS/tree/gh-pages/QR-Generator"
 		],
-		"description": "",
-		"rankId": 101
+		[
+		  "demo",
+		  "https://vinhnghi223.github.io/WEB-APPS-PROJECTS/QR-Generator/www/"
+		]
+	  ],
+	  "description": "",
+	  "rankId": 34
 	},
 	{
-		"_id": "55239b8bebd4f06aa95fed12",
-		"name": "Sheep Counting App",
-		"cat": "Mobile App",
-		"technologies": "PhoneGap, HTML5, JQuery Mobile",
-		"rating": 1,
-		"links": [
-			[
-				"github",
-				"https://github.com/vinhnghi223/Sheep-Counting-App"
-			],
-			[
-				"download",
-				"https://build.phonegap.com/apps/700791/share"
-			]
-		],
-		"description": "",
-		"rankId": 102
+	  "_id": "55239b8bebd4f06aa95fed13",
+	  "name": "Body Mass Index Calculator",
+	  "noImage": true,
+	  "cat": "Mobile App",
+	  "technologies": "Java, Android, Eclipse",
+	  "rating": 1,
+	  "links": [
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/Body-Mass-Index-Calculator"
+		]
+	  ],
+	  "description": "",
+	  "rankId": 35
 	}
-]
+  ]
