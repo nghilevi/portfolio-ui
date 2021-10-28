@@ -445,25 +445,6 @@
 	  "rating": 2
 	},
 	{
-	  "_id": "55239b8bebd4f06aa95fed07",
-	  "name": "Student Directory",
-	  "cat": "Web",
-	  "technologies": "MongoDB, ExpressJS, AngularJS, NodeJS, Bootstrap, Grunt",
-	  "links": [
-		[
-		  "github",
-		  "https://github.com/vinhnghi223/Student-Directory"
-		],
-		[
-		  "demo",
-		  "https://student-directory-uog.herokuapp.com/#/"
-		]
-	  ],
-	  "description": "A simple yet efficient web app for managing student buit using MEAN stack",
-	  "rankId": 24,
-	  "rating": 2
-	},
-	{
 	  "_id": "55239b8bebd4f06aa95fed0b",
 	  "name": "Real Time Pedometer App",
 	  "cat": "Mobile App, Web",
@@ -551,6 +532,25 @@
 	  "rankId": 28,
 	  "rating": 2
 	},
+	{
+		"_id": "55239b8bebd4f06aa95fed07",
+		"name": "Student Directory",
+		"cat": "Web",
+		"technologies": "MongoDB, ExpressJS, AngularJS, NodeJS, Bootstrap, Grunt",
+		"links": [
+		  [
+			"github",
+			"https://github.com/vinhnghi223/Student-Directory"
+		  ],
+		  [
+			"demo",
+			"https://student-directory-uog.herokuapp.com/#/"
+		  ]
+		],
+		"description": "A simple yet efficient web app for managing student buit using MEAN stack",
+		"rankId": 28,
+		"rating": 2
+	  },
 	{
 	  "_id": "55239b8bebd4f06aa95fed1d",
 	  "name": "Game Portfolio Wordpress Theme",

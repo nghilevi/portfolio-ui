@@ -7,7 +7,7 @@ module.exports = function(grunt){
 	grunt.loadNpmTasks('grunt-json-minify');
 	grunt.loadNpmTasks('grunt-contrib-copy');
 	grunt.loadNpmTasks('grunt-contrib-htmlmin');
-	//grunt.loadNpmTasks('grunt-contrib-watch');
+	grunt.loadNpmTasks('grunt-contrib-watch');
 	// grunt.loadNpmTasks('grunt-contrib-sass');
 	grunt.loadNpmTasks('grunt-run');
 	
@@ -171,7 +171,7 @@ module.exports = function(grunt){
 
 	grunt.registerTask('buildJson', "Build Json.",['copy','json-minify']);
 	grunt.registerTask('build', "Builds the application.",['buildJson','htmlmin','concat','uglify','cssmin']);
-	grunt.registerTask('default', ['build','run']);
+	grunt.registerTask('default', ['build','run','watch']);
 };
 
 

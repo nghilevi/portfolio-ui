@@ -5,10 +5,10 @@
 
   <!-- filter out empty rankId -->
   <div 
-  class="col-xs-6 col-md-4 project cf li" 
+  class="col-xs-6 col-md-4 project cf li test" 
   style="cursor: pointer;"
   ng-animate="'animate'"  
-  ng-repeat="item in projects  | filter: query | filter:{rankId:'!!'}" | orderBy:searchOrder">
+  ng-repeat="item in projects  | filter: query | filter:{rankId:'!!'} | orderBy:searchOrder">
     
     <div class="info">
       <div class="card effect__click" 
