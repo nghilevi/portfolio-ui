@@ -1,5 +1,145 @@
 [
 	{
+	  "_id": "abc",
+	  "name": "Nordea",
+	  "cat": "Web",
+	  "technologies": "Angular, TypeScript, AngularJS, HTML5, CSS3, Sass, JavaScript",
+	  "links": [
+		[
+		  "demo",
+		  "https://www.linkedin.com/in/levinhnghi/detail/treasury/position:1163054375/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAAAOr0HIB246DwpPfk3Z1SHYDr1oy2L1gKTY%2C1635460576445)&section=position%3A1163054375&treasuryCount=9"
+		],
+		[
+		  "demo",
+		  "https://netbank.nordea.fi/#!/"
+		]
+	  ],
+	  "description": "Relationship Banking Online - new private netbank project for household customers",
+	  "rankId": 0,
+	  "rating": 3
+	},
+	{
+	  "_id": "55239b8bebd4f06aa95fed09",
+	  "name": "Near By Location Android App",
+	  "cat": "Mobile App",
+	  "technologies": "Java, Android, Android Studio",
+	  "links": [
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/Near-By-Location-Android-App"
+		]
+	  ],
+	  "description": "A great lightweight app that allows students to quickly locate rooms in just less than 0.1 second.",
+	  "rankId": 1,
+	  "rating": 3
+	},
+	{
+	  "_id": "55239b8bebd4f06aa95fed08",
+	  "name": "Ventoura",
+	  "cat": "Mobile App",
+	  "technologies": "Java, Android, Eclipse, Android Studio",
+	  "links": [
+		[
+		  "demo",
+		  "https://ventoura.com/"
+		],
+		[
+		  "playstore",
+		  "https://play.google.com/store/apps/details?id=com.Mindelo.Ventoura.UI.Activity"
+		]
+	  ],
+	  "description": "Offer the local experience for the travellers. Launching soon!",
+	  "rankId": 2,
+	  "rating": 3
+	},
+	{
+	  "_id": "",
+	  "name": "Createtrips.com",
+	  "cat": "Web App",
+	  "technologies": "AngularJS, JavaScript, Jasmine, Karma, Grunt, Protractor, Unit testing, E2E testing",
+	  "links": [
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/Near-By-Location-Android-App"
+		],
+		[
+		  "demo",
+		  "https://vinhnghi223.github.io/near-by-location-app/dist/index.html#/"
+		]
+	  ],
+	  "description": "NearByLocation Web app using Foursquare API v2",
+	  "rankId": 3,
+	  "rating": 3
+	},
+	{
+	  "_id": "55239b8bebd4f06aa95fed06",
+	  "name": "meetingpackage.com",
+	  "cat": "Web",
+	  "technologies": "HTML5, CSS3, JavaScript, PHP, Drupal",
+	  "links": [
+		[
+		  "demo",
+		  "https://meetingpackage.com/"
+		]
+	  ],
+	  "description": "You can find a full range of conference packages easily on this website",
+	  "rankId": 4,
+	  "rating": 3
+	},
+	{
+	  "_id": "55239b8bebd4f06aa95fed21",
+	  "name": "Datafarmer UI",
+	  "cat": "Web",
+	  "technologies": "AngularJS, JavaScript, CoffeeScript, HTML5, CSS3, Bootstrap, Grunt",
+	  "links": [
+		[
+		  "demo",
+		  "http://www.ba-group.fi/data-farmer/"
+		]
+	  ],
+	  "description": "",
+	  "rankId": 5,
+	  "rating": 3
+	},
+	{
+	  "_id": "55239b8bebd4f06aa95fed1f",
+	  "name": "Finnish Tax Office App",
+	  "cat": "Web",
+	  "technologies": "JavaScript, HTML5, CSS3, Axure",
+	  "links": [
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/Finnish-Tax-Office-App"
+		],
+		[
+		  "demo",
+		  "http://clm2qc.axshare.com/"
+		]
+	  ],
+	  "description": "",
+	  "rankId": 6,
+	  "rating": 3
+	},
+	{
+	  "_id": "55239b8bebd4f06aa95fed1b",
+	  "name": "Vinhnghi223.github.io",
+	  "cat": "Web",
+	  "technologies": "AngularJS, Grunt, MongoDB, Yeoman, Bower, JavaScript, HTML5, CSS3, Bootstrap",
+	  "links": [
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/vinhnghi223.github.io"
+		],
+		[
+		  "demo",
+		  "http://vinhnghi223.github.io/#/"
+		]
+	  ],
+	  "description": "",
+	  "rankId": 7,
+	  "rating": 3
+	},
+	{
 	  "_id": "a4",
 	  "name": "foundation-apps-modal",
 	  "cat": "Web",
@@ -20,7 +160,7 @@
 		]
 	  ],
 	  "description": "Zurb Foundation-apps modal with angular promises.",
-	  "rankId": 0,
+	  "rankId": 8,
 	  "rating": 3
 	},
 	{
@@ -40,7 +180,7 @@
 		]
 	  ],
 	  "description": "A gulp plugin that helps you automate releasing and publishing to NPM easy than ever! All you need to do is issue gulp release. I've used it in my pet project as well as used it to publish itself!",
-	  "rankId": 1,
+	  "rankId": 9,
 	  "rating": 3
 	},
 	{
@@ -64,7 +204,7 @@
 		]
 	  ],
 	  "description": "A super lightweight, easy-to-use yet powerful Node module to create month calendar where each date is a momentJS date.",
-	  "rankId": 2,
+	  "rankId": 10,
 	  "rating": 3
 	},
 	{
@@ -88,7 +228,7 @@
 		]
 	  ],
 	  "description": "A gulp plugin that helps you automate releasing and publishing to NPM easy than ever! All you need to do is issue gulp release. I've used it in my pet project as well as used it to publish itself!",
-	  "rankId": 3,
+	  "rankId": 11,
 	  "rating": 3
 	},
 	{
@@ -112,193 +252,49 @@
 		]
 	  ],
 	  "description": "Pagination component for Angular 1.x, displaying the sequence of numbers assigned to pages in a book or periodical.",
-	  "rankId": 4,
-	  "rating": 3
-	},
-	{
-	  "_id": "abc",
-	  "name": "Nordea",
-	  "cat": "Web",
-	  "technologies": "Angular, TypeScript, AngularJS, HTML5, CSS3, Sass, JavaScript",
-	  "links": [
-		[
-			"demo",
-			"https://www.linkedin.com/in/levinhnghi/detail/treasury/position:1163054375/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAAAOr0HIB246DwpPfk3Z1SHYDr1oy2L1gKTY%2C1635460576445)&section=position%3A1163054375&treasuryCount=9"
-		],
-		[
-			"demo",
-			"https://netbank.nordea.fi/#!/"
-		]
-	  ],
-	  "description": "Relationship Banking Online - new private netbank project for household customers",
-	  "rankId": 5,
-	  "rating": 3
-	},
-	{
-	  "_id": "55239b8bebd4f06aa95fed09",
-	  "name": "Near By Location Android App",
-	  "cat": "Mobile App",
-	  "technologies": "Java, Android, Android Studio",
-	  "links": [
-		[
-		  "github",
-		  "https://github.com/vinhnghi223/Near-By-Location-Android-App"
-		]
-	  ],
-	  "description": "A great lightweight app that allows students to quickly locate rooms in just less than 0.1 second.",
-	  "rankId": 6,
-	  "rating": 3
-	},
-	{
-	  "_id": "55239b8bebd4f06aa95fed08",
-	  "name": "Ventoura",
-	  "cat": "Mobile App",
-	  "technologies": "Java, Android, Eclipse, Android Studio",
-	  "links": [
-		[
-		  "demo",
-		  "https://ventoura.com/"
-		],
-		[
-		  "playstore",
-		  "https://play.google.com/store/apps/details?id=com.Mindelo.Ventoura.UI.Activity"
-		]
-	  ],
-	  "description": "Offer the local experience for the travellers. Launching soon!",
-	  "rankId": 7,
-	  "rating": 3
-	},
-	{
-	  "_id": "",
-	  "name": "Createtrips.com",
-	  "cat": "Web App",
-	  "technologies": "AngularJS, JavaScript, Jasmine, Karma, Grunt, Protractor, Unit testing, E2E testing",
-	  "links": [
-		[
-		  "github",
-		  "https://github.com/vinhnghi223/Near-By-Location-Android-App"
-		],
-		[
-		  "demo",
-		  "https://vinhnghi223.github.io/near-by-location-app/dist/index.html#/"
-		]
-	  ],
-	  "description": "NearByLocation Web app using Foursquare API v2",
-	  "rankId": 8,
-	  "rating": 3
-	},
-	{
-	  "_id": "55239b8bebd4f06aa95fed06",
-	  "name": "meetingpackage.com",
-	  "cat": "Web",
-	  "technologies": "HTML5, CSS3, JavaScript, PHP, Drupal",
-	  "links": [
-		[
-		  "demo",
-		  "https://meetingpackage.com/"
-		]
-	  ],
-	  "description": "You can find a full range of conference packages easily on this website",
-	  "rankId": 9,
-	  "rating": 3
-	},
-	{
-	  "_id": "55239b8bebd4f06aa95fed21",
-	  "name": "Datafarmer UI",
-	  "cat": "Web",
-	  "technologies": "AngularJS, JavaScript, CoffeeScript, HTML5, CSS3, Bootstrap, Grunt",
-	  "links": [
-		[
-		  "demo",
-		  "http://www.ba-group.fi/data-farmer/"
-		]
-	  ],
-	  "description": "",
-	  "rankId": 10,
-	  "rating": 3
-	},
-	{
-	  "_id": "55239b8bebd4f06aa95fed1b",
-	  "name": "Vinhnghi223.github.io",
-	  "cat": "Web",
-	  "technologies": "AngularJS, Grunt, MongoDB, Yeoman, Bower, JavaScript, HTML5, CSS3, Bootstrap",
-	  "links": [
-		[
-		  "github",
-		  "https://github.com/vinhnghi223/vinhnghi223.github.io"
-		],
-		[
-		  "demo",
-		  "http://vinhnghi223.github.io/#/"
-		]
-	  ],
-	  "description": "",
-	  "rankId": 11,
-	  "rating": 3
-	},
-	{
-	  "_id": "55239b8bebd4f06aa95fed1f",
-	  "name": "Finnish Tax Office App",
-	  "cat": "Web",
-	  "technologies": "JavaScript, HTML5, CSS3, Axure",
-	  "links": [
-		[
-		  "github",
-		  "https://github.com/vinhnghi223/Finnish-Tax-Office-App"
-		],
-		[
-		  "demo",
-		  "http://clm2qc.axshare.com/"
-		]
-	  ],
-	  "description": "",
 	  "rankId": 12,
 	  "rating": 3
 	},
 	{
-		"_id": "5as1f",
-		"name": "chips",
-		"cat": "Web",
-		"technologies": "TypeScript, StencilJS, Web component",
-		"links": [
-		],
-		"description": "Coming soon!",
-		"rankId": 13,
-		"rating": 3
-	  },
-	  {
-		"_id": "5assd1f",
-		"name": "slider",
-		"cat": "Web",
-		"technologies": "TypeScript, StencilJS, Web component",
-		"links": [
-		],
-		"description": "Coming soon!",
-		"rankId": 14,
-		"rating": 3
-	  },
-	  {
-		"_id": "assda",
-		"name": "input-number",
-		"cat": "Web",
-		"technologies": "TypeScript, StencilJS, Web component",
-		"links": [
-		],
-		"description": "Coming soon!",
-		"rankId": 15,
-		"rating": 3
-	  },
-	  {
-		"_id": "assda",
-		"name": "percentage-circle",
-		"cat": "Web",
-		"technologies": "TypeScript, StencilJS, Web component",
-		"links": [
-		],
-		"description": "Coming soon!",
-		"rankId": 16,
-		"rating": 3
-	  },
+	  "_id": "5as1f",
+	  "name": "chips",
+	  "cat": "Web",
+	  "technologies": "TypeScript, StencilJS, Web component",
+	  "links": [],
+	  "description": "Coming soon!",
+	  "rankId": 13,
+	  "rating": 3
+	},
+	{
+	  "_id": "5assd1f",
+	  "name": "slider",
+	  "cat": "Web",
+	  "technologies": "TypeScript, StencilJS, Web component",
+	  "links": [],
+	  "description": "Coming soon!",
+	  "rankId": 14,
+	  "rating": 3
+	},
+	{
+	  "_id": "assda",
+	  "name": "input-number",
+	  "cat": "Web",
+	  "technologies": "TypeScript, StencilJS, Web component",
+	  "links": [],
+	  "description": "Coming soon!",
+	  "rankId": 15,
+	  "rating": 3
+	},
+	{
+	  "_id": "assda",
+	  "name": "percentage-circle",
+	  "cat": "Web",
+	  "technologies": "TypeScript, StencilJS, Web component",
+	  "links": [],
+	  "description": "Coming soon!",
+	  "rankId": 16,
+	  "rating": 3
+	},
 	{
 	  "_id": "55239b8bebd4f06aa95fed14",
 	  "name": "Anjalanvpk.fi",
@@ -315,7 +311,7 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 13,
+	  "rankId": 17,
 	  "rating": 3
 	},
 	{
@@ -342,7 +338,7 @@
 		]
 	  ],
 	  "description": "A great lightweight app that allows students to quickly locate rooms in just less than 0.1 second.",
-	  "rankId": 14,
+	  "rankId": 18,
 	  "rating": 3
 	},
 	{
@@ -365,7 +361,7 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 15,
+	  "rankId": 19,
 	  "rating": 3
 	},
 	{
@@ -388,7 +384,7 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 16,
+	  "rankId": 20,
 	  "rating": 3
 	},
 	{
@@ -407,7 +403,7 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 17,
+	  "rankId": 21,
 	  "rating": 2
 	},
 	{
@@ -430,7 +426,7 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 18,
+	  "rankId": 22,
 	  "rating": 2
 	},
 	{
@@ -445,7 +441,7 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 19,
+	  "rankId": 23,
 	  "rating": 2
 	},
 	{
@@ -464,7 +460,7 @@
 		]
 	  ],
 	  "description": "A simple yet efficient web app for managing student buit using MEAN stack",
-	  "rankId": 20,
+	  "rankId": 24,
 	  "rating": 2
 	},
 	{
@@ -491,7 +487,7 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 21,
+	  "rankId": 25,
 	  "rating": 2
 	},
 	{
@@ -514,7 +510,7 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 22,
+	  "rankId": 26,
 	  "rating": 2
 	},
 	{
@@ -533,7 +529,7 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 23,
+	  "rankId": 27,
 	  "rating": 2
 	},
 	{
@@ -552,7 +548,7 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 24,
+	  "rankId": 28,
 	  "rating": 2
 	},
 	{
@@ -567,7 +563,7 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 25,
+	  "rankId": 29,
 	  "rating": 2
 	},
 	{
@@ -590,7 +586,7 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 26,
+	  "rankId": 30,
 	  "rating": 2
 	},
 	{
@@ -609,7 +605,7 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 27,
+	  "rankId": 31,
 	  "rating": 1
 	},
 	{
@@ -628,7 +624,7 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 28,
+	  "rankId": 32,
 	  "rating": 1
 	},
 	{
@@ -647,26 +643,27 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 29,
+	  "rankId": 33,
 	  "rating": 1
 	},
 	{
-		"_id": "55239b8bebd4f06aa95fed15",
-		"name": "Lake Volleyball",
-		"cat": "Game",
-		"technologies": "HTML5, JavaScript, Construct2",
-		"links": [
-		  [
-			"github",
-			"https://github.com/vinhnghi223/HTML5-GAMES/tree/master/Lake%20Volleyball"
-		  ],
-		  [
-			"demo",
-			"http://vinhnghi223.github.io/HTML5-GAMES/Lake%20Volleyball/"
-		  ]
+	  "_id": "55239b8bebd4f06aa95fed15",
+	  "name": "Lake Volleyball",
+	  "cat": "Game",
+	  "technologies": "HTML5, JavaScript, Construct2",
+	  "links": [
+		[
+		  "github",
+		  "https://github.com/vinhnghi223/HTML5-GAMES/tree/master/Lake%20Volleyball"
 		],
-		"description": "",
-		"rating": 1
+		[
+		  "demo",
+		  "http://vinhnghi223.github.io/HTML5-GAMES/Lake%20Volleyball/"
+		]
+	  ],
+	  "description": "",
+	  "rating": 1,
+	  "rankId": 34
 	},
 	{
 	  "_id": "55239b8bebd4f06aa95fed1a",
@@ -684,7 +681,7 @@
 		]
 	  ],
 	  "description": "Retired",
-	  "rankId": 31,
+	  "rankId": 35,
 	  "rating": 1
 	},
 	{
@@ -700,7 +697,7 @@
 		]
 	  ],
 	  "description": "REST API to fetch venues data using Springboot",
-	  "rankId": 32,
+	  "rankId": 36,
 	  "rating": 1
 	},
 	{
@@ -720,7 +717,7 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 33,
+	  "rankId": 37,
 	  "rating": 1
 	},
 	{
@@ -740,7 +737,7 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 34,
+	  "rankId": 38,
 	  "rating": 1
 	},
 	{
@@ -756,7 +753,7 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 35,
+	  "rankId": 39,
 	  "rating": 1
 	}
   ]

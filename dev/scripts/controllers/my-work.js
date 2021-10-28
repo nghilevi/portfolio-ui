@@ -57,9 +57,9 @@ app.factory('autocompleteArrServ', [function() {
 .controller('my-work', ['$scope', '$http','autocompleteArrServ','back2Top',
   function($scope, $http, autocompleteArrServ, back2Top) {
 
-
   var processData=function(data){
     $scope.projects = data;
+    console.log('$scope.projects: ',$scope.projects);
     $scope.searchOrder = ['rankId'];
     //$scope.direction='reverse';
     $scope.autocomplete=autocompleteArrServ.generate(data);  
@@ -69,7 +69,6 @@ app.factory('autocompleteArrServ', [function() {
   var savedData,
       mode='production';
   
-
   //get data from local storage
   var loadData=function(savedData,mode){
     if(mode!='test'){
