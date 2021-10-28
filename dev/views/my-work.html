@@ -3,7 +3,7 @@
 </div>
 <div class="projectList ul">
   <div class="col-xs-6 col-md-4 project cf li" style="cursor: pointer;"
-  ng-animate="'animate'"  ng-repeat="item in projects  | filter: query | orderBy:searchOrder">
+  ng-animate="'animate'"  ng-repeat="item in projects  | filter: query | filter:{rankId:'!!'}" | orderBy:searchOrder">
     
     <div class="info">
       <div class="card effect__click" 
