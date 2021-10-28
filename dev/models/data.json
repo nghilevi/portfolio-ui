@@ -3,9 +3,8 @@
 	  "_id": "a4",
 	  "name": "foundation-apps-modal",
 	  "cat": "Web",
-	  "technologies": "AngularJs, JavaScript",
+	  "technologies": "AngularJS, JavaScript",
 	  "noImage": false,
-	  "rating": 3,
 	  "links": [
 		[
 		  "demo",
@@ -21,7 +20,8 @@
 		]
 	  ],
 	  "description": "Zurb Foundation-apps modal with angular promises.",
-	  "rankId": 0
+	  "rankId": 0,
+	  "rating": 3
 	},
 	{
 	  "_id": "a2",
@@ -29,7 +29,6 @@
 	  "noImage": false,
 	  "cat": "NodeJS",
 	  "technologies": "JavaScript, NodeJS",
-	  "rating": 3,
 	  "links": [
 		[
 		  "npm",
@@ -41,7 +40,8 @@
 		]
 	  ],
 	  "description": "A gulp plugin that helps you automate releasing and publishing to NPM easy than ever! All you need to do is issue gulp release. I've used it in my pet project as well as used it to publish itself!",
-	  "rankId": 1
+	  "rankId": 1,
+	  "rating": 3
 	},
 	{
 	  "_id": "a6",
@@ -49,7 +49,6 @@
 	  "cat": "Web",
 	  "technologies": "NodeJS, JavaScript",
 	  "noImage": false,
-	  "rating": 3,
 	  "links": [
 		[
 		  "github",
@@ -65,7 +64,8 @@
 		]
 	  ],
 	  "description": "A super lightweight, easy-to-use yet powerful Node module to create month calendar where each date is a momentJS date.",
-	  "rankId": 2
+	  "rankId": 2,
+	  "rating": 3
 	},
 	{
 	  "_id": "a3",
@@ -73,7 +73,6 @@
 	  "cat": "JavaScript, Gulp",
 	  "technologies": "JavaScript",
 	  "noImage": false,
-	  "rating": 3,
 	  "links": [
 		[
 		  "demo",
@@ -89,7 +88,8 @@
 		]
 	  ],
 	  "description": "A gulp plugin that helps you automate releasing and publishing to NPM easy than ever! All you need to do is issue gulp release. I've used it in my pet project as well as used it to publish itself!",
-	  "rankId": 3
+	  "rankId": 3,
+	  "rating": 3
 	},
 	{
 	  "_id": "a5",
@@ -97,7 +97,6 @@
 	  "cat": "Web",
 	  "technologies": "AngularJs, JavaScript",
 	  "noImage": false,
-	  "rating": 3,
 	  "links": [
 		[
 		  "github",
@@ -113,14 +112,14 @@
 		]
 	  ],
 	  "description": "Pagination component for Angular 1.x, displaying the sequence of numbers assigned to pages in a book or periodical.",
-	  "rankId": 4
+	  "rankId": 4,
+	  "rating": 3
 	},
 	{
 	  "_id": "abc",
 	  "name": "Nordea",
 	  "cat": "Web",
 	  "technologies": "Angular, TypeScript, AngularJS, HTML5, CSS3, Sass, JavaScript",
-	  "rating": 3,
 	  "links": [
 		[
 		  "demo",
@@ -128,14 +127,14 @@
 		]
 	  ],
 	  "description": "Relationship Banking Online - new private netbank project for household customers",
-	  "rankId": 5
+	  "rankId": 5,
+	  "rating": 3
 	},
 	{
 	  "_id": "55239b8bebd4f06aa95fed09",
 	  "name": "Near By Location Android App",
 	  "cat": "Mobile App",
 	  "technologies": "Java, Android, Android Studio",
-	  "rating": 3,
 	  "links": [
 		[
 		  "github",
@@ -143,14 +142,14 @@
 		]
 	  ],
 	  "description": "A great lightweight app that allows students to quickly locate rooms in just less than 0.1 second.",
-	  "rankId": 6
+	  "rankId": 6,
+	  "rating": 3
 	},
 	{
 	  "_id": "55239b8bebd4f06aa95fed08",
 	  "name": "Ventoura",
 	  "cat": "Mobile App",
 	  "technologies": "Java, Android, Eclipse, Android Studio",
-	  "rating": 3,
 	  "links": [
 		[
 		  "demo",
@@ -162,14 +161,14 @@
 		]
 	  ],
 	  "description": "Offer the local experience for the travellers. Launching soon!",
-	  "rankId": 7
+	  "rankId": 7,
+	  "rating": 3
 	},
 	{
 	  "_id": "",
 	  "name": "Createtrips.com",
 	  "cat": "Web App",
 	  "technologies": "AngularJS, JavaScript, Jasmine, Karma, Grunt, Protractor, Unit testing, E2E testing",
-	  "rating": 3,
 	  "links": [
 		[
 		  "github",
@@ -181,14 +180,14 @@
 		]
 	  ],
 	  "description": "NearByLocation Web app using Foursquare API v2",
-	  "rankId": 8
+	  "rankId": 8,
+	  "rating": 3
 	},
 	{
 	  "_id": "55239b8bebd4f06aa95fed06",
 	  "name": "meetingpackage.com",
 	  "cat": "Web",
 	  "technologies": "HTML5, CSS3, JavaScript, PHP, Drupal",
-	  "rating": 3,
 	  "links": [
 		[
 		  "demo",
@@ -196,14 +195,14 @@
 		]
 	  ],
 	  "description": "You can find a full range of conference packages easily on this website",
-	  "rankId": 9
+	  "rankId": 9,
+	  "rating": 3
 	},
 	{
 	  "_id": "55239b8bebd4f06aa95fed21",
 	  "name": "Datafarmer UI",
 	  "cat": "Web",
 	  "technologies": "AngularJS, JavaScript, CoffeeScript, HTML5, CSS3, Bootstrap, Grunt",
-	  "rating": 3,
 	  "links": [
 		[
 		  "demo",
@@ -211,14 +210,14 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 10
+	  "rankId": 10,
+	  "rating": 3
 	},
 	{
 	  "_id": "55239b8bebd4f06aa95fed1b",
 	  "name": "vinhnghi223.github.io",
 	  "cat": "Web",
 	  "technologies": "AngularJS, Grunt, MongoDB, Yeoman, Bower, JavaScript, HTML5, CSS3, Bootstrap",
-	  "rating": 3,
 	  "links": [
 		[
 		  "github",
@@ -230,14 +229,14 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 11
+	  "rankId": 11,
+	  "rating": 3
 	},
 	{
 	  "_id": "55239b8bebd4f06aa95fed1f",
 	  "name": "Finnish Tax Office App",
 	  "cat": "Web",
 	  "technologies": "JavaScript, HTML5, CSS3, Axure",
-	  "rating": 2,
 	  "links": [
 		[
 		  "github",
@@ -249,14 +248,57 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 12
+	  "rankId": 12,
+	  "rating": 3
 	},
+	{
+		"_id": "5as1f",
+		"name": "chips",
+		"cat": "Web",
+		"technologies": "TypeScript, StencilJS, Web component",
+		"links": [
+		],
+		"description": "Coming soon!",
+		"rankId": 13
+	  },
+	  {
+		"_id": "5assd1f",
+		"name": "slider",
+		"cat": "Web",
+		"technologies": "TypeScript, StencilJS, Web component",
+		"links": [
+		],
+		"description": "Coming soon!",
+		"rankId": 14,
+		"rating": 3
+	  },
+	  {
+		"_id": "assda",
+		"name": "input-number",
+		"cat": "Web",
+		"technologies": "TypeScript, StencilJS, Web component",
+		"links": [
+		],
+		"description": "Coming soon!",
+		"rankId": 15,
+		"rating": 3
+	  },
+	  {
+		"_id": "assda",
+		"name": "percentage-circle",
+		"cat": "Web",
+		"technologies": "TypeScript, StencilJS, Web component",
+		"links": [
+		],
+		"description": "Coming soon!",
+		"rankId": 16,
+		"rating": 3
+	  },
 	{
 	  "_id": "55239b8bebd4f06aa95fed14",
 	  "name": "Anjalanvpk.fi",
 	  "cat": "Web",
 	  "technologies": "HTML5, CSS3, JavaScript, Drupal",
-	  "rating": 3,
 	  "links": [
 		[
 		  "github",
@@ -268,14 +310,14 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 13
+	  "rankId": 13,
+	  "rating": 3
 	},
 	{
 	  "_id": "55239b8bebd4f06aa95fed0a",
 	  "name": "Laurea Room Finder",
 	  "cat": "Mobile App",
 	  "technologies": "HTML5, CSS3, JavaScript, JQuery, PhoneGap/Cordova",
-	  "rating": 3,
 	  "links": [
 		[
 		  "github",
@@ -295,14 +337,14 @@
 		]
 	  ],
 	  "description": "A great lightweight app that allows students to quickly locate rooms in just less than 0.1 second.",
-	  "rankId": 14
+	  "rankId": 14,
+	  "rating": 3
 	},
 	{
 	  "_id": "55239b8bebd4f06aa95fed0d",
 	  "name": "Real Time Menu App",
 	  "cat": "Mobile App, Web",
 	  "technologies": "Java, Android, Eclipse, Wordpress, JavaScript, AngularJS, Bootstrap, Firebase",
-	  "rating": 3,
 	  "links": [
 		[
 		  "github",
@@ -318,14 +360,14 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 15
+	  "rankId": 15,
+	  "rating": 3
 	},
 	{
 	  "_id": "55239b8bebd4f06aa95fed0e",
 	  "name": "Bar Laurea Android Application",
 	  "cat": "Mobile App",
 	  "technologies": "Java, Android, Eclipse",
-	  "rating": 3,
 	  "links": [
 		[
 		  "github",
@@ -341,14 +383,14 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 16
+	  "rankId": 16,
+	  "rating": 3
 	},
 	{
 	  "_id": "55239b8bebd4f06aa95fed18",
 	  "name": "Aiesec-hy.fi",
 	  "cat": "Web",
 	  "technologies": "HTML5, CSS3, JavaScript, Bootstrap",
-	  "rating": 3,
 	  "links": [
 		[
 		  "github",
@@ -360,14 +402,14 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 17
+	  "rankId": 17,
+	  "rating": 2
 	},
 	{
 	  "_id": "55239b8bebd4f06aa95fed0c",
 	  "name": "Smart Mobile Expense Manager",
 	  "cat": "Mobile App",
 	  "technologies": "Java, Android, Android Studio",
-	  "rating": 3,
 	  "links": [
 		[
 		  "github",
@@ -383,14 +425,14 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 18
+	  "rankId": 18,
+	  "rating": 2
 	},
 	{
 	  "_id": "55239b8bebd4f06aa95fed1e",
 	  "name": "Giggle Bug",
 	  "cat": "Game",
 	  "technologies": "JavaScript, HTML5, CSS3",
-	  "rating": 3,
 	  "links": [
 		[
 		  "demo",
@@ -398,14 +440,14 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 19
+	  "rankId": 19,
+	  "rating": 2
 	},
 	{
 	  "_id": "55239b8bebd4f06aa95fed07",
 	  "name": "Student Directory",
 	  "cat": "Web",
 	  "technologies": "MongoDB, ExpressJS, AngularJS, NodeJS, Bootstrap, Grunt",
-	  "rating": 3,
 	  "links": [
 		[
 		  "github",
@@ -417,14 +459,14 @@
 		]
 	  ],
 	  "description": "A simple yet efficient web app for managing student buit using MEAN stack",
-	  "rankId": 20
+	  "rankId": 20,
+	  "rating": 2
 	},
 	{
 	  "_id": "55239b8bebd4f06aa95fed0b",
 	  "name": "Real Time Pedometer App",
 	  "cat": "Mobile App, Web",
 	  "technologies": "Android, Java, JavaScript, AngularJS, Bootstrap, JQuery, Firebase, D3.js",
-	  "rating": 3,
 	  "links": [
 		[
 		  "github",
@@ -444,14 +486,14 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 21
+	  "rankId": 21,
+	  "rating": 2
 	},
 	{
 	  "_id": "55239b8bebd4f06aa95fed20",
 	  "name": "Epvs.edu.vn",
 	  "cat": "Web",
 	  "technologies": "JavaScript, HTML5, CSS3",
-	  "rating": 2,
 	  "links": [
 		[
 		  "github",
@@ -467,14 +509,14 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 22
+	  "rankId": 22,
+	  "rating": 2
 	},
 	{
 	  "_id": "55239b8bebd4f06aa95fed17",
 	  "name": "Hetihierontaan.fi",
 	  "cat": "Web",
 	  "technologies": "Wordpress, PHP, HTML5, CSS3, JavaScript",
-	  "rating": 2,
 	  "links": [
 		[
 		  "github",
@@ -486,14 +528,14 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 23
+	  "rankId": 23,
+	  "rating": 2
 	},
 	{
 	  "_id": "55239b8bebd4f06aa95fed19",
 	  "name": "Kipukorjaus.fi",
 	  "cat": "Web",
 	  "technologies": "PHP, Wordpress, JavaScript",
-	  "rating": 2,
 	  "links": [
 		[
 		  "github",
@@ -505,14 +547,14 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 24
+	  "rankId": 24,
+	  "rating": 2
 	},
 	{
 	  "_id": "55239b8bebd4f06aa95fed1d",
 	  "name": "Game Portfolio Wordpress Theme",
 	  "cat": "Web",
 	  "technologies": "Wordpress, PHP, HTML5, CSS3",
-	  "rating": 3,
 	  "links": [
 		[
 		  "github",
@@ -520,14 +562,14 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 25
+	  "rankId": 25,
+	  "rating": 2
 	},
 	{
 	  "_id": "55239b8bebd4f06aa95fed16",
 	  "name": "The Great Escape",
 	  "cat": "Game",
 	  "technologies": "HTML5, JavaScript, Construct2",
-	  "rating": 3,
 	  "links": [
 		[
 		  "github",
@@ -543,14 +585,14 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 26
+	  "rankId": 26,
+	  "rating": 2
 	},
 	{
 	  "_id": "55239b8bebd4f06aa95fed0f",
 	  "name": "Product Showcase App",
 	  "cat": "Mobile App",
 	  "technologies": "PhoneGap/Cordova, JQuery Mobile",
-	  "rating": 2,
 	  "links": [
 		[
 		  "github",
@@ -562,14 +604,14 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 27
+	  "rankId": 27,
+	  "rating": 1
 	},
 	{
 	  "_id": "55239b8bebd4f06aa95fed10",
 	  "name": "Note Taking App For Android",
 	  "cat": "Mobile App",
 	  "technologies": "Java, Android, Eclipse",
-	  "rating": 2,
 	  "links": [
 		[
 		  "github",
@@ -581,14 +623,14 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 28
+	  "rankId": 28,
+	  "rating": 1
 	},
 	{
 	  "_id": "55239b8bebd4f06aa95fed12",
 	  "name": "Sheep Counting App",
 	  "cat": "Mobile App",
 	  "technologies": "PhoneGap, HTML5, JQuery Mobile",
-	  "rating": 1,
 	  "links": [
 		[
 		  "github",
@@ -600,14 +642,14 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 29
+	  "rankId": 29,
+	  "rating": 1
 	},
 	{
 	  "_id": "55239b8bebd4f06aa95fed15",
 	  "name": "Lake Volleyball",
 	  "cat": "Game",
 	  "technologies": "HTML5, JavaScript, Construct2",
-	  "rating": 2,
 	  "links": [
 		[
 		  "github",
@@ -619,14 +661,14 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 30
+	  "rankId": 30,
+	  "rating": 1
 	},
 	{
 	  "_id": "55239b8bebd4f06aa95fed1a",
 	  "name": "Codingisloving.com",
 	  "cat": "Web",
 	  "technologies": "PHP, Wordpress",
-	  "rating": 2,
 	  "links": [
 		[
 		  "demo",
@@ -638,7 +680,8 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 31
+	  "rankId": 31,
+	  "rating": 1
 	},
 	{
 	  "_id": "a1",
@@ -646,7 +689,6 @@
 	  "noImage": false,
 	  "cat": "API",
 	  "technologies": "Java, Springboot",
-	  "rating": 3,
 	  "links": [
 		[
 		  "github",
@@ -654,7 +696,8 @@
 		]
 	  ],
 	  "description": "REST API to fetch venues data using Springboot",
-	  "rankId": 32
+	  "rankId": 32,
+	  "rating": 1
 	},
 	{
 	  "_id": "55239b8bebd4f06aa95fed11",
@@ -662,7 +705,6 @@
 	  "noImage": true,
 	  "cat": "Mobile App",
 	  "technologies": "Java, Android, Android Studio",
-	  "rating": 1,
 	  "links": [
 		[
 		  "github",
@@ -674,7 +716,8 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 33
+	  "rankId": 33,
+	  "rating": 1
 	},
 	{
 	  "_id": "55239b8bebd4f06aa95fed1c",
@@ -682,7 +725,6 @@
 	  "noImage": true,
 	  "cat": "Hybrid",
 	  "technologies": "JavaScript, HTML5, CSS3, jQuery, PhoneGap/Cordova",
-	  "rating": 2,
 	  "links": [
 		[
 		  "github",
@@ -694,7 +736,8 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 34
+	  "rankId": 34,
+	  "rating": 1
 	},
 	{
 	  "_id": "55239b8bebd4f06aa95fed13",
@@ -702,7 +745,6 @@
 	  "noImage": true,
 	  "cat": "Mobile App",
 	  "technologies": "Java, Android, Eclipse",
-	  "rating": 1,
 	  "links": [
 		[
 		  "github",
@@ -710,6 +752,7 @@
 		]
 	  ],
 	  "description": "",
-	  "rankId": 35
+	  "rankId": 35,
+	  "rating": 1
 	}
   ]
