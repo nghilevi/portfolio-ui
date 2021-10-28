@@ -16,6 +16,7 @@
           <p title="Category">{{item.name}} ({{item.cat}})</p>
           <img class="rating" title="Rating" ng-src="dist/img/rating/{{item.rating}}.png">
           <h3 title="Technologies">{{item.technologies}}</h3>
+          <p>{{item.description}}</p>
           <div class="links" ng-repeat="link in item.links">
               <a target="_blank" title="{{link[0]}}" ng-href="{{link[1]}}"><img class="links" ng-src="dist/img/links/{{link[0]}}.jpg"></a>
           </div>
