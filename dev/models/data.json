@@ -176,7 +176,7 @@
 		],
 		[
 		  "demo",
-		  "http://vinhnghi223.github.io/nLocationApp/"
+		  "https://vinhnghi223.github.io/near-by-location-app/dist/index.html#/"
 		]
 	  ],
 	  "description": "NearByLocation Web app using Foursquare API v2",
@@ -259,7 +259,8 @@
 		"links": [
 		],
 		"description": "Coming soon!",
-		"rankId": 13
+		"rankId": 13,
+		"rating": 3
 	  },
 	  {
 		"_id": "5assd1f",
@@ -352,7 +353,7 @@
 		],
 		[
 		  "demo",
-		  "http://goo.gl/WnNuzm"
+		  "http://vinhnghi223.github.io/android-web-bar-laurea-app/Bar-Laurea-Menu-Web-App"
 		],
 		[
 		  "download",
@@ -474,7 +475,7 @@
 		],
 		[
 		  "demo",
-		  "http://vinhnghi223.github.io/Pedometer-App/Pedometer-Web-App/"
+		  "http://vinhnghi223.github.io/android-web-pedometer-app/Pedometer-Web-App/"
 		],
 		[
 		  "download",
@@ -596,11 +597,11 @@
 	  "links": [
 		[
 		  "github",
-		  "https://github.com/vinhnghi223/Product-Showcase-App"
+		  "https://github.com/vinhnghi223/hybrid-product-showcase-app"
 		],
 		[
 		  "demo",
-		  "http://vinhnghi223.github.io/Product-Showcase-App/"
+		  "https://vinhnghi223.github.io/hybrid-product-showcase-app"
 		]
 	  ],
 	  "description": "",
