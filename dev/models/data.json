@@ -703,7 +703,6 @@
 	{
 	  "_id": "55239b8bebd4f06aa95fed11",
 	  "name": "Polish Zloty To Euro Conversion",
-	  "noImage": true,
 	  "cat": "Mobile App",
 	  "technologies": "Java, Android, Android Studio",
 	  "links": [
@@ -723,7 +722,6 @@
 	{
 	  "_id": "55239b8bebd4f06aa95fed1c",
 	  "name": "QR Code Generator",
-	  "noImage": true,
 	  "cat": "Hybrid",
 	  "technologies": "JavaScript, HTML5, CSS3, jQuery, PhoneGap/Cordova",
 	  "links": [
