@@ -670,6 +670,21 @@
 	  "rating": 1
 	},
 	{
+		"_id": "55239b8bebd4f06aa95fed16",
+		"name": "Lenni 3D model",
+		"cat": "Game",
+		"technologies": "Maya",
+		"links": [
+		  [
+			"behance",
+			"https://skfb.ly/AOJu"
+		  ]
+		],
+		"description": "Lenni is the mascot of LAUREAMKO and a main character of “The adventure of Lenni” game",
+		"rankId": 36,
+		"rating": 2
+	},
+	{
 	  "_id": "a1",
 	  "name": "venues-rest-api",
 	  "noImage": false,
