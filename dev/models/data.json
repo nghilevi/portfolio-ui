@@ -261,10 +261,19 @@
 	},
 	{
 	  "_id": "5as1f",
-	  "name": "chips",
+	  "name": "ui-chips",
 	  "cat": "Web",
 	  "technologies": "TypeScript, StencilJS, Web component",
-	  "links": [],
+	  "links": [
+		[
+			"github",
+			"https://github.com/vinhnghi223/ui-chips"
+		],
+		[
+			"npm",
+			"https://www.npmjs.com/package/ui-chips"
+		]
+	  ],
 	  "description": "Coming soon!",
 	  "rankId": 13,
 	  "rating": 3
@@ -288,6 +297,16 @@
 	  "description": "Coming soon!",
 	  "rankId": 15,
 	  "rating": 3
+	},
+	{
+		"_id": "ss",
+		"name": "percentage-bar",
+		"cat": "Web",
+		"technologies": "TypeScript, StencilJS, Web component",
+		"links": [],
+		"description": "Coming soon!",
+		"rankId": 16,
+		"rating": 3
 	},
 	{
 	  "_id": "assda",
