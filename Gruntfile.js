@@ -42,10 +42,26 @@ module.exports = function(grunt){
 		// 		}
 		// 	}
 		// },
-		copy: { //copy json file
+		copy: {
 		  main: {
-		    src: 'dev/models/data.json',
-		    dest: 'dist/models/data.json',
+			files: [
+				// copy json
+				{src: 'dev/models/data.json', dest: 'dist/models/data.json'},
+				// copy img
+				{
+					expand: true,
+					cwd: 'dev/img',
+					src: '**',
+					dest: 'dist/img'
+				},
+				// copy fonts
+				{
+					expand: true,
+					cwd: 'dev/styles/fonts',
+					src: '**',
+					dest: 'dist/styles/fonts'
+				},
+			]
 		  },
 		},
 		//Min stuff
@@ -85,15 +101,15 @@ module.exports = function(grunt){
 					collapseWhitespace: true
 				},
 				files: {                                  
-					'index-dist.html': 'index-dev.html',
-					'index.html': 'index-dev.html'
+					//'index-dist.html': 'index-dev.html',
+					//'index.html': 'index-dev.html',
+					'index.html': 'index-dev-dist.html'
 				}
 			}
 		},
 		watch: {
 			scripts: {
 				files: 'dev/scripts/**/*.js',
-				// tasks: ['coffee', 'concat:scripts', 'uglify'],
 				tasks: ['concat:scripts','uglify'],
 				options: {
 					spawn: false,
