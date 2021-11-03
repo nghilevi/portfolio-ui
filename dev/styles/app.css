@@ -250,7 +250,7 @@ a.small {
 
 /* --------------------- Slide 1 --------------------- 1*/
 #slide-1{
-    background: url("../img/bcg_slide-1.jpg") no-repeat center center; /*6, 18 */
+    background: url("../img/slide-background/bcg_slide-1.jpg") no-repeat center center; /*6, 18 */
     background-size: cover;
 }
 #intro{
@@ -320,7 +320,7 @@ a.small {
 
 /* --------------------- Slide 2 --------------------- 1*/
 #slide-2{
-    background: url("../img/bcg_slide-2.jpg") no-repeat center center;
+    background: url("../img/slide-background/bcg_slide-2.jpg") no-repeat center center;
     background-size: cover;
     -ms-transform: translate(0,100%); /* IE 9 */
     -webkit-transform: translate(0,100%); /* Chrome, Safari, Opera */
@@ -335,7 +335,7 @@ a.small {
 
 /* --------------------- Slide 3 --------------------- 1*/
 #slide-3{
-    background: url("../img/bcg_slide-3.jpg") no-repeat center center;
+    background: url("../img/slide-background/bcg_slide-3.jpg") no-repeat center center;
     background-size: cover;
     -ms-transform: translate(100%,100%); /* IE 9 */
     -webkit-transform: translate(100%,100%); /* Chrome, Safari, Opera */
@@ -350,7 +350,7 @@ a.small {
 
 /* --------------------- Slide 4 --------------------- 1*/
 #slide-4{
-    background: url("../img/bcg_slide-4.jpg") no-repeat center center;
+    background: url("../img/slide-background/bcg_slide-4.jpg") no-repeat center center;
     background-size: cover;
     -ms-transform: translate(100%,0); /* IE 9 */
     -webkit-transform: translate(100%,0); /* Chrome, Safari, Opera */
