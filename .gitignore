@@ -1,5 +1,7 @@
 node_modules
-images_lib/
-.DS_Store
+images_lib
 npm_debug.log
-.idea/
+src
+
+.DS_Store
+.idea
