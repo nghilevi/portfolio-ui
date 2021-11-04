@@ -23,6 +23,33 @@
 	  "rating": 3
 	},
 	{
+		"_id": "55239b8bebd4f06aa95fed08",
+		"name": "Ventoura",
+		"cat": "Mobile App",
+		"technologies": "Java, Android, Eclipse, Android Studio",
+		"links": [
+			[
+				"playstore",
+				"https://play.google.com/store/apps/details?id=com.Mindelo.Ventoura.UI.Activity"
+			],
+			[
+				"demo",
+				"https://ventoura.com/"
+			],
+			[
+				"youtube",
+				"https://www.youtube.com/watch?v=c9F5hseOb1I"
+			],
+			[
+				"youtube",
+				"https://www.youtube.com/watch?v=_p0hELqGjdg"
+			]
+		],
+		"description": "Offer the local experience for the travellers. Launching soon!",
+		"rankId": 1,
+		"rating": 3
+	},
+	{
 	  "_id": "55239b8bebd4f06aa95fed09",
 	  "name": "Near By Location Android App",
 	  "cat": "Mobile App",
@@ -34,25 +61,6 @@
 		]
 	  ],
 	  "description": "A great lightweight app that allows students to quickly locate rooms in just less than 0.1 second.",
-	  "rankId": 1,
-	  "rating": 3
-	},
-	{
-	  "_id": "55239b8bebd4f06aa95fed08",
-	  "name": "Ventoura",
-	  "cat": "Mobile App",
-	  "technologies": "Java, Android, Eclipse, Android Studio",
-	  "links": [
-		[
-		  "demo",
-		  "https://ventoura.com/"
-		],
-		[
-		  "playstore",
-		  "https://play.google.com/store/apps/details?id=com.Mindelo.Ventoura.UI.Activity"
-		]
-	  ],
-	  "description": "Offer the local experience for the travellers. Launching soon!",
 	  "rankId": 2,
 	  "rating": 3
 	},
@@ -63,12 +71,12 @@
 	  "technologies": "AngularJS, JavaScript, Jasmine, Karma, Grunt, Protractor, Unit testing, E2E testing",
 	  "links": [
 		[
-		  "github",
-		  "https://github.com/vinhnghi223/Near-By-Location-Android-App"
+			"demo",
+			"https://vinhnghi223.github.io/near-by-location-app/dist/index.html#/"
 		],
 		[
-		  "demo",
-		  "https://vinhnghi223.github.io/near-by-location-app/dist/index.html#/"
+		  "github",
+		  "https://github.com/vinhnghi223/Near-By-Location-Android-App"
 		]
 	  ],
 	  "description": "NearByLocation Web app using Foursquare API v2",
@@ -98,7 +106,7 @@
 	  "links": [
 		[
 		  "demo",
-		  "http://www.ba-group.fi/data-farmer/"
+		  "https://greitco.com/en/home/"
 		]
 	  ],
 	  "description": "",
@@ -394,16 +402,16 @@
 	  "technologies": "Java, Android, Eclipse",
 	  "links": [
 		[
+			"playstore",
+			"coming-soon-september-2014"
+		],
+		[
 		  "github",
 		  "https://github.com/vinhnghi223/Beverage-Shop-Android-App"
 		],
 		[
 		  "youtube",
 		  "https://www.youtube.com/watch?v=3MRKoL75MOo"
-		],
-		[
-		  "playstore",
-		  "coming-soon-september-2014"
 		]
 	  ],
 	  "description": "",
