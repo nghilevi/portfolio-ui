@@ -159,6 +159,10 @@
 	  "noImage": false,
 	  "links": [
 		[
+			"trend",
+			"https://www.npmtrends.com/foundation-apps-modal-vs-gulp-release-easy-vs-moment-calendar-2-vs-ng-checkbox-vs-ng-paginator-vs-ui-percentage-bar"
+		],
+		[
 		  "demo",
 		  "http://vinhnghi223.github.io/foundation-apps-modal/#"
 		],
@@ -183,6 +187,10 @@
 	  "technologies": "JavaScript, NodeJS",
 	  "links": [
 		[
+			"trend",
+			"https://www.npmtrends.com/foundation-apps-modal-vs-gulp-release-easy-vs-moment-calendar-2-vs-ng-checkbox-vs-ng-paginator-vs-ui-percentage-bar"
+		],
+		[
 		  "npm",
 		  "https://www.npmjs.com/package/gulp-release-easy"
 		],
@@ -202,6 +210,10 @@
 	  "technologies": "NodeJS, JavaScript",
 	  "noImage": false,
 	  "links": [
+		[
+			"trend",
+			"https://www.npmtrends.com/foundation-apps-modal-vs-gulp-release-easy-vs-moment-calendar-2-vs-ng-checkbox-vs-ng-paginator-vs-ui-percentage-bar"
+		],
 		[
 		  "github",
 		  "https://github.com/vinhnghi223/moment-calendar-2"
@@ -227,6 +239,10 @@
 	  "noImage": false,
 	  "links": [
 		[
+			"trend",
+			"https://www.npmtrends.com/foundation-apps-modal-vs-gulp-release-easy-vs-moment-calendar-2-vs-ng-checkbox-vs-ng-paginator-vs-ui-percentage-bar"
+		],
+		[
 		  "demo",
 		  "http://vinhnghi223.github.io/ng-checkbox/#/demo"
 		],
@@ -250,6 +266,10 @@
 	  "technologies": "AngularJs, JavaScript",
 	  "noImage": false,
 	  "links": [
+		[
+			"trend",
+			"https://www.npmtrends.com/foundation-apps-modal-vs-gulp-release-easy-vs-moment-calendar-2-vs-ng-checkbox-vs-ng-paginator-vs-ui-percentage-bar"
+		],
 		[
 		  "github",
 		  "https://github.com/vinhnghi223/ng-paginator"
@@ -312,6 +332,10 @@
 		"cat": "Web",
 		"technologies": "TypeScript, StencilJS, Web component",
 		"links": [
+			[
+				"trend",
+				"https://www.npmtrends.com/foundation-apps-modal-vs-gulp-release-easy-vs-moment-calendar-2-vs-ng-checkbox-vs-ng-paginator-vs-ui-percentage-bar"
+			],
 			[
 				"demo",
 				"https://vinhnghi223.github.io/ui-percentage-bar/"
