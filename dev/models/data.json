@@ -308,17 +308,30 @@
 	},
 	{
 		"_id": "ss",
-		"name": "percentage-bar",
+		"name": "ui-percentage-bar",
 		"cat": "Web",
 		"technologies": "TypeScript, StencilJS, Web component",
-		"links": [],
+		"links": [
+			[
+				"demo",
+				"https://vinhnghi223.github.io/ui-percentage-bar/"
+			],
+			[
+				"github",
+				"https://github.com/vinhnghi223/ui-percentage-bar"
+			],
+			[
+				"npm",
+				"https://www.npmjs.com/package/ui-percentage-bar"
+			]
+		],
 		"description": "Coming soon!",
 		"rankId": 16,
 		"rating": 3
 	},
 	{
 	  "_id": "assda",
-	  "name": "percentage-circle",
+	  "name": "ui-percentage-circle",
 	  "cat": "Web",
 	  "technologies": "TypeScript, StencilJS, Web component",
 	  "links": [],
