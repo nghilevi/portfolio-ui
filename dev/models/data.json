@@ -316,9 +316,11 @@
 	  "cat": "Web",
 	  "technologies": "TypeScript, StencilJS, Web component",
 	  "links": [
-		"github",
-		"https://github.com/vinhnghi223/uiw-slider"
-	],
+		  [
+			"github",
+			"https://github.com/vinhnghi223/uiw-slider"
+		  ]
+		],
 	  "description": "A lightweight, simple-to-use slider allowing users to make selections from a range of values.",
 	  "rankId": 14,
 	  "rating": 3
