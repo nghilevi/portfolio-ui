@@ -349,7 +349,7 @@
 				"https://www.npmjs.com/package/ui-percentage-bar"
 			]
 		],
-		"description": "Coming soon!",
+		"description": "Easy to use horizontal percentage bar framework-agnostic web component",
 		"rankId": 16,
 		"rating": 3
 	},
@@ -358,8 +358,25 @@
 	  "name": "ui-percentage-circle",
 	  "cat": "Web",
 	  "technologies": "TypeScript, StencilJS, Web component",
-	  "links": [],
-	  "description": "Coming soon!",
+	  "links": [
+		[
+			"trend",
+			"https://www.npmtrends.com/foundation-apps-modal-vs-gulp-release-easy-vs-moment-calendar-2-vs-ng-checkbox-vs-ng-paginator-vs-ui-percentage-circle"
+		],
+		[
+			"demo",
+			"https://vinhnghi223.github.io/ui-percentage-circle/"
+		],
+		[
+			"github",
+			"https://github.com/vinhnghi223/ui-percentage-circle"
+		],
+		[
+			"npm",
+			"https://www.npmjs.com/package/ui-percentage-circle"
+		]
+	  ],
+	  "description": "A lightweight, simple-to-use circular percentage graph web component. Pass in the percentage number, with color of your choice, then ui-percentage-circle will handle the rest.",
 	  "rankId": 16,
 	  "rating": 3
 	},
