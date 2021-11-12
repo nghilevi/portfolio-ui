@@ -294,6 +294,10 @@
 	  "technologies": "TypeScript, StencilJS, Web component",
 	  "links": [
 		[
+			"demo",
+			"https://vinhnghi223.github.io/ui-chips"
+		],
+		[
 			"github",
 			"https://github.com/vinhnghi223/ui-chips"
 		],
@@ -302,17 +306,20 @@
 			"https://www.npmjs.com/package/ui-chips"
 		]
 	  ],
-	  "description": "Coming soon!",
+	  "description": "Chips group is a collection of (currently) chips-like component. There are 2 types of chips group: Filter (Checkbox) and Choice (Radio button).",
 	  "rankId": 13,
 	  "rating": 3
 	},
 	{
 	  "_id": "5assd1f",
-	  "name": "slider",
+	  "name": "uiw-slider",
 	  "cat": "Web",
 	  "technologies": "TypeScript, StencilJS, Web component",
-	  "links": [],
-	  "description": "Coming soon!",
+	  "links": [
+		"github",
+		"https://github.com/vinhnghi223/uiw-slider"
+	],
+	  "description": "A lightweight, simple-to-use slider allowing users to make selections from a range of values.",
 	  "rankId": 14,
 	  "rating": 3
 	},
