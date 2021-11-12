@@ -318,11 +318,28 @@
 	},
 	{
 	  "_id": "assda",
-	  "name": "input-number",
+	  "name": "uiw-input-number",
 	  "cat": "Web",
 	  "technologies": "TypeScript, StencilJS, Web component",
-	  "links": [],
-	  "description": "Coming soon!",
+	  "links": [
+		[
+			"trend",
+			"https://www.npmtrends.com/foundation-apps-modal-vs-gulp-release-easy-vs-moment-calendar-2-vs-ng-checkbox-vs-ng-paginator-vs-uiw-input-number"
+		],
+		[
+			"demo",
+			"https://vinhnghi223.github.io/uiw-input-number/"
+		],
+		[
+			"github",
+			"https://github.com/vinhnghi223/uiw-input-number"
+		],
+		[
+			"npm",
+			"https://www.npmjs.com/package/uiw-input-number"
+		]
+	],
+	  "description": "The number input component is used for entering numeric values and includes controls for incrementally increasing or decreasing the value.",
 	  "rankId": 15,
 	  "rating": 3
 	},
@@ -332,23 +349,23 @@
 		"cat": "Web",
 		"technologies": "TypeScript, StencilJS, Web component",
 		"links": [
-			[
-				"trend",
-				"https://www.npmtrends.com/foundation-apps-modal-vs-gulp-release-easy-vs-moment-calendar-2-vs-ng-checkbox-vs-ng-paginator-vs-ui-percentage-bar"
-			],
-			[
-				"demo",
-				"https://vinhnghi223.github.io/ui-percentage-bar/"
-			],
-			[
-				"github",
-				"https://github.com/vinhnghi223/ui-percentage-bar"
-			],
-			[
-				"npm",
-				"https://www.npmjs.com/package/ui-percentage-bar"
-			]
-		],
+    [
+        "trend",
+        "https://www.npmtrends.com/foundation-apps-modal-vs-gulp-release-easy-vs-moment-calendar-2-vs-ng-checkbox-vs-ng-paginator-vs-uiw-input-number"
+    ],
+    [
+        "demo",
+        "https://vinhnghi223.github.io/uiw-input-number/"
+    ],
+    [
+        "github",
+        "https://github.com/vinhnghi223/uiw-input-number"
+    ],
+    [
+        "npm",
+        "https://www.npmjs.com/package/uiw-input-number"
+    ]
+],
 		"description": "Easy to use horizontal percentage bar framework-agnostic web component",
 		"rankId": 16,
 		"rating": 3
