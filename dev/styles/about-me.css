@@ -150,7 +150,7 @@
 
 #slide-4 .caption{
     position: absolute;
-    margin-top: 100px;
+    margin-top: 10%;
     margin-left: 60%;
 }
 #slide-4 .caption, #slide-4 .caption p, #slide-4 .caption h1{
@@ -159,7 +159,7 @@
 }
 
 #slide-4 p{
-    margin-bottom: 150px;
+    margin-bottom: 200px;
 }
 
 #slide-4  #social-media img{
@@ -186,6 +186,14 @@
     #slide-3 .caption p{
         margin: 5% 57% 0 5%;
         font-size: 1em;
+    }
+
+    #slide-4 .caption{
+        margin-top: 5%;
+    }
+
+    #slide-4 p{
+        margin-bottom: 100px;
     }
 }
 @media only screen and (max-width: 500px){
