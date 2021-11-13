@@ -309,6 +309,7 @@ a.small {
     margin-left: -175px;
     margin-top: 10px;
     font-weight: bold;
+    text-align: center;
 }
 
 #intro p.moving{
@@ -448,7 +449,6 @@ a.small {
     #slide-2 .caption.part2 p,{
         font-size: 1em;
     }
-
 
 }
 /* ---------------------------- my-work ----------------------- */
