@@ -29,6 +29,14 @@
 		"technologies": "Java, Android, Eclipse, Android Studio",
 		"links": [
 			[
+				"review",
+				"https://fi.pinterest.com/lvn223/review-ventoura/"
+			],
+			[
+				"instagram",
+				"https://www.instagram.com/ventoura/"
+			],
+			[
 				"playstore",
 				"https://play.google.com/store/apps/details?id=com.Mindelo.Ventoura.UI.Activity"
 			],
@@ -431,6 +439,10 @@
 	  "cat": "Mobile App",
 	  "technologies": "HTML5, CSS3, JavaScript, JQuery, PhoneGap/Cordova",
 	  "links": [
+		[
+			"review",
+			"https://github.com/vinhnghi223/hybrid-room-and-offices-finder#review"
+		],
 		[
 		  "github",
 		  "https://github.com/vinhnghi223/hybrid-room-and-offices-finder"
