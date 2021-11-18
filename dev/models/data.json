@@ -3,7 +3,7 @@
 	  "_id": "abc",
 	  "name": "Nordea",
 	  "cat": "Web",
-	  "technologies": "Angular, TypeScript, AngularJS, HTML5, CSS3, Sass, JavaScript",
+	  "technologies": "Angular, TypeScript, AngularJs, HTML5, CSS3, Sass, JavaScript",
 	  "links": [
 		[
 		  "demo",
@@ -76,7 +76,7 @@
 	  "_id": "",
 	  "name": "Createtrips.com",
 	  "cat": "Web App",
-	  "technologies": "AngularJS, JavaScript, Jasmine, Karma, Grunt, Protractor, Unit testing, E2E testing",
+	  "technologies": "AngularJs, JavaScript, Jasmine, Karma, Grunt, Protractor, Unit testing, E2E testing",
 	  "links": [
 		[
 			"demo",
@@ -110,7 +110,7 @@
 	  "_id": "55239b8bebd4f06aa95fed21",
 	  "name": "Datafarmer UI",
 	  "cat": "Web",
-	  "technologies": "AngularJS, JavaScript, CoffeeScript, HTML5, CSS3, Bootstrap, Grunt",
+	  "technologies": "AngularJs, JavaScript, CoffeeScript, HTML5, CSS3, Bootstrap, Grunt",
 	  "links": [
 		[
 		  "demo",
@@ -144,7 +144,7 @@
 	  "_id": "55239b8bebd4f06aa95fed1b",
 	  "name": "Vinhnghi223.github.io",
 	  "cat": "Web",
-	  "technologies": "AngularJS, Grunt, MongoDB, Yeoman, Bower, JavaScript, HTML5, CSS3, Bootstrap",
+	  "technologies": "AngularJs, Grunt, MongoDB, Yeoman, Bower, JavaScript, HTML5, CSS3, Bootstrap",
 	  "links": [
 		[
 		  "github",
@@ -163,7 +163,7 @@
 	  "_id": "a4",
 	  "name": "foundation-apps-modal",
 	  "cat": "Web",
-	  "technologies": "AngularJS, JavaScript",
+	  "technologies": "AngularJs, JavaScript",
 	  "noImage": false,
 	  "links": [
 		[
@@ -468,7 +468,7 @@
 	  "_id": "55239b8bebd4f06aa95fed0d",
 	  "name": "Real Time Menu App",
 	  "cat": "Mobile App, Web",
-	  "technologies": "Java, Android, Eclipse, Wordpress, JavaScript, AngularJS, Bootstrap, Firebase",
+	  "technologies": "Java, Android, Eclipse, Wordpress, JavaScript, AngularJs, Bootstrap, Firebase",
 	  "links": [
 		[
 		  "github",
@@ -571,7 +571,7 @@
 	  "_id": "55239b8bebd4f06aa95fed0b",
 	  "name": "Real Time Pedometer App",
 	  "cat": "Mobile App, Web",
-	  "technologies": "Android, Java, JavaScript, AngularJS, Bootstrap, JQuery, Firebase, D3.js",
+	  "technologies": "Android, Java, JavaScript, AngularJs, Bootstrap, JQuery, Firebase, D3.js",
 	  "links": [
 		[
 		  "github",
@@ -659,7 +659,7 @@
 		"_id": "55239b8bebd4f06aa95fed07",
 		"name": "Student Directory",
 		"cat": "Web",
-		"technologies": "MongoDB, ExpressJS, AngularJS, NodeJS, Bootstrap, Grunt",
+		"technologies": "MongoDB, ExpressJS, AngularJs, NodeJS, Bootstrap, Grunt",
 		"links": [
 		  [
 			"github",
@@ -712,6 +712,25 @@
 	  "rankId": 30,
 	  "rating": 2
 	},
+	{
+		"_id": "55239b8bebd4f06aa95fed15",
+		"name": "Lake Volleyball",
+		"cat": "Game",
+		"technologies": "HTML5, JavaScript, Construct2",
+		"links": [
+		  [
+			"github",
+			"https://github.com/vinhnghi223/HTML5-GAMES/tree/master/Lake%20Volleyball"
+		  ],
+		  [
+			"demo",
+			"http://vinhnghi223.github.io/HTML5-GAMES/Lake%20Volleyball/"
+		  ]
+		],
+		"description": "",
+		"rating": 1,
+		"rankId": 31
+	  },
 	{
 	  "_id": "55239b8bebd4f06aa95fed0f",
 	  "name": "Product Showcase App",
