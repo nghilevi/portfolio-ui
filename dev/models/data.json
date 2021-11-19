@@ -66,6 +66,10 @@
 		[
 		  "github",
 		  "https://github.com/vinhnghi223/Near-By-Location-Android-App"
+		],
+		[
+		  "demo",
+		  "https://imgur.com/a/OOQap#0"
 		]
 	  ],
 	  "description": "A great lightweight app that allows students to quickly locate rooms in just less than 0.1 second.",
@@ -85,6 +89,10 @@
 		[
 		  "github",
 		  "https://github.com/vinhnghi223/Near-By-Location-Android-App"
+		],
+		[
+		  "demo",
+		  "https://imgur.com/a/tETe9"
 		]
 	  ],
 	  "description": "NearByLocation Web app using Foursquare API v2",
