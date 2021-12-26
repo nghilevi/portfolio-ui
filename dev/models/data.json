@@ -140,8 +140,12 @@
 	  "technologies": "AngularJs, JavaScript, CoffeeScript, HTML5, CSS3, Bootstrap, Grunt",
 	  "links": [
 		[
-		  "demo",
-		  "https://greitco.com/en/home/"
+			"demo",
+			"https://greitco.com/en/home/"
+		],
+		[
+			"youtube",
+			"https://www.youtube.com/watch?v=35XZ1ciKYuQ"
 		]
 	  ],
 	  "description": "",
