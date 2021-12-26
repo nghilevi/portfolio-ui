@@ -97,11 +97,19 @@ app.factory('autocompleteArrServ', [function() {
       $($event.currentTarget).toggleClass("flipped");
   }
 
+  $scope.onType = function(str){
+    // no implementation
+  }
+
   //On select a string/item on the autocomplete list
   $scope.selectItem=function(item){
-    if(item[item.length-1]==")"){
-        $scope.query = item.slice(0,item.indexOf("(")-1);
+    
+    if(item.indexOf('(')>-1){
+      $scope.query = item.replace(/\(.+\)/g, '');
+    }else{
+      $scope.query = item
     }
+
   }
 
   back2Top.init();

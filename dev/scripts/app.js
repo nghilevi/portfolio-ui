@@ -490,11 +490,27 @@ app.factory('autocompleteArrServ', [function() {
       $($event.currentTarget).toggleClass("flipped");
   }
 
+  $scope.onType = function(str){
+    console.log('onType: ',str)
+  }
+
   //On select a string/item on the autocomplete list
   $scope.selectItem=function(item){
+    
+    if(item.indexOf('(')>-1){
+      console.log('has ()')
+      $scope.query = item.replace(/\(.+\)/g, '');
+    }else{
+      console.log('DOE NOT has ()')
+      $scope.query = item
+    }
+
+    console.log('selectItem: ',item,'$scope.query: ',$scope.query)
+    /*
     if(item[item.length-1]==")"){
         $scope.query = item.slice(0,item.indexOf("(")-1);
-    }
+        console.log('selectItem: $scope.query: ',$scope.query)
+    }*/
   }
 
   back2Top.init();
