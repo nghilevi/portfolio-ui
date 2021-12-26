@@ -2,10 +2,11 @@
     <autocomplete 
       ng-model="query" 
       attr-placeholder="Search my {{projects.length}} projects by keywords (e.g 'Web', Angular', 'React', 'Android', 'TypeScript', etc.)" 
-      data="autocomplete"
+      data="autocompleteData"
       on-type="onType"
       on-select="selectItem">
-  </autocomplete> 
+  </autocomplete>
+  {{query}}
 </div>
 <div class="projectList ul">
 

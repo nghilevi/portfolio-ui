@@ -86,8 +86,15 @@ autocomplete.directive('autocomplete', ['$timeout',function($timeout) {
       // selecting a suggestion with RIGHT ARROW or ENTER
       $scope.select = function(suggestion){
         if(suggestion){
+
+          var foundBracket = suggestion.indexOf('(')>-1
+          if(foundBracket){
+            suggestion = (suggestion.replace(/\(.+\)/g, '')).trim()
+          }
+
           $scope.searchParam = suggestion;
           $scope.searchFilter = suggestion;
+
           if($scope.onSelect)
             $scope.onSelect(suggestion);
         }

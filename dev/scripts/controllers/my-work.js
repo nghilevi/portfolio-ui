@@ -54,20 +54,20 @@ app.factory('autocompleteArrServ', [function() {
   }
 
 }])
-.controller('my-work', ['$scope', '$http','autocompleteArrServ','back2Top',
-  function($scope, $http, autocompleteArrServ, back2Top) {
+.controller('my-work', ['$scope', '$http','autocompleteArrServ','back2Top','$timeout',
+  function($scope, $http, autocompleteArrServ, back2Top, $timeout) {
+  
+  //var savedData = JSON.parse(localStorage.getItem('lvnPortfolio1.0.12')),
+  var savedData,
+      mode='production';
 
   var processData=function(data){
     $scope.projects = data;
     $scope.searchOrder = ['rankId'];
     //$scope.direction='reverse';
-    $scope.autocomplete=autocompleteArrServ.generate(data);  
+    $scope.autocompleteData=autocompleteArrServ.generate(data);
   }
 
-  //var savedData = JSON.parse(localStorage.getItem('lvnPortfolio1.0.12')),
-  var savedData,
-      mode='production';
-  
   //get data from local storage
   var loadData=function(savedData,mode){
     if(mode!='test'){
@@ -75,6 +75,7 @@ app.factory('autocompleteArrServ', [function() {
         $http.get('dist/models/data.json').success(function(data) {
           processData(data);
           savedData = JSON.stringify($scope.projects);
+          $scope.savedData = JSON.stringify($scope.projects);
           //localStorage.clear();
           //localStorage.setItem('lvnPortfolio1.0.12', savedData);
         });
@@ -85,31 +86,41 @@ app.factory('autocompleteArrServ', [function() {
       $http.get('dev/models/data.json').success(function(data) {
           processData(data);
           savedData = JSON.stringify($scope.projects);
+          $scope.savedData = JSON.stringify($scope.projects);
       });
     }
   }
   
-  //mode='test';
-  loadData(savedData,mode);
+  var updateQuery = function (val){
+    $scope.query = val
+  }
 
-  $scope.flip=function($event){
+  //mode='test';
+  loadData(savedData, mode);
+
+  ///////////////////////////////////////////////////////////////////////
+
+  $scope.flip = function($event){
       $($event.currentTarget).toggleClass("flipped");
   }
 
   $scope.onType = function(str){
-    // no implementation
-    if(str.length === 0){
-      $scope.query = null
+    
+    var shouldUpdate = $scope.savedData.indexOf(str) > -1
+    if(shouldUpdate){
+      updateQuery(str)
+    }else if(str.length === 0){
+      updateQuery(null)
     }
   }
 
   //On select a string/item on the autocomplete list
   $scope.selectItem=function(item){
-    
-    if(item.indexOf('(')>-1){
-      $scope.query = item.replace(/\(.+\)/g, '');
+    var foundBracket = item.indexOf('(')>-1
+    if(foundBracket){
+      updateQuery(item.replace(/\(.+\)/g, ''))
     }else{
-      $scope.query = item
+      updateQuery(item)
     }
 
   }
