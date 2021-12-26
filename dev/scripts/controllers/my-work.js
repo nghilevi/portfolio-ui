@@ -59,7 +59,6 @@ app.factory('autocompleteArrServ', [function() {
 
   var processData=function(data){
     $scope.projects = data;
-    console.log('$scope.projects: ',$scope.projects);
     $scope.searchOrder = ['rankId'];
     //$scope.direction='reverse';
     $scope.autocomplete=autocompleteArrServ.generate(data);  
