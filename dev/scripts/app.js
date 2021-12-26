@@ -492,6 +492,9 @@ app.factory('autocompleteArrServ', [function() {
 
   $scope.onType = function(str){
     // no implementation
+    if(str.length === 0){
+      $scope.query = null
+    }
   }
 
   //On select a string/item on the autocomplete list
