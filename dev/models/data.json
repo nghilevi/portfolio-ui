@@ -80,19 +80,19 @@
         "_id": "",
         "name": "Createtrips.com",
         "cat": "Web App",
-        "technologies": "AngularJs, JavaScript, Jasmine, Karma, Grunt, Protractor, Unit testing, E2E testing",
+        "technologies": "Wordpress, HTML, CSS",
         "links": [
             {
-                "type": "demo",
-                "url": "https://vinhnghi223.github.io/near-by-location-app/dist/index.html#/"
-            },
-            {
                 "type": "github",
-                "url": "https://github.com/vinhnghi223/Near-By-Location-Android-App"
+                "url": "https://github.com/vinhnghi223/createtrips.com-ui"
             },
             {
                 "type": "demo",
                 "url": "https://imgur.com/a/tETe9"
+            },
+            {
+                "type": "demo",
+                "url": "https://vinhnghi223.github.io/createtrips.com-ui/"
             }
         ],
         "description": "NearByLocation Web app using Foursquare API v2",
@@ -609,6 +609,10 @@
         "technologies": "JavaScript, HTML5, CSS3",
         "links": [
             {
+                "type": "github",
+                "url": "https://github.com/vinhnghi223/giggle-bug"
+            },
+            {
                 "type": "demo",
                 "url": "http://www.gigglebug.tv/"
             }
@@ -703,6 +707,25 @@
         ],
         "description": "",
         "rankId": 28,
+        "rating": 2
+    },
+    {
+        "_id": "55239b8bebd4f06aa95fed20",
+        "name": "LinkedByMusic.com",
+        "cat": "Web",
+        "technologies": "JavaScript, HTML5, CSS3",
+        "links": [
+            {
+                "type": "github",
+                "url": "https://github.com/vinhnghi223/WEB-APPS-PROJECTS/tree/gh-pages/LinkedByMusic.com"
+            },
+            {
+                "type": "demo",
+                "url": "http://vinhnghi223.github.io/WEB-APPS-PROJECTS/LinkedByMusic.com/"
+            }
+        ],
+        "description": "",
+        "rankId": 26,
         "rating": 2
     },
     {
