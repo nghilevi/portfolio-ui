@@ -1,7 +1,7 @@
 <div id="search" class="search" ng-if="projects">
     <autocomplete 
       ng-model="query" 
-      attr-placeholder="Search my {{projects.length}} projects by keywords (e.g 'Web', Angular', 'React', 'Android', 'TypeScript', etc.)" 
+      attr-placeholder="Search my {{projects.length}}+ projects by keywords (e.g 'Web', Angular', 'React', 'Android', 'TypeScript', etc.)" 
       data="autocompleteData"
       on-type="onType"
       on-select="selectItem">
