@@ -887,6 +887,10 @@
         "technologies": "Maya",
         "links": [
             {
+                "type": "github",
+                "url": "https://github.com/vinhnghi223/lenni-3d-model"
+            },
+            {
                 "type": "behance",
                 "url": "https://skfb.ly/AOJu"
             }
