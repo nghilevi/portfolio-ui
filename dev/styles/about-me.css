@@ -151,9 +151,11 @@
 
 #slide-4 .caption{
     position: absolute;
-    margin-top: 10%;
     margin-left: 60%;
+    margin-right: 10%;
+    margin-top: 5%;
 }
+
 #slide-4 .caption, #slide-4 .caption p, #slide-4 .caption h1{
     color: white;
     text-align: right; 
