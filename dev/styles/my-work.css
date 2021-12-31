@@ -22,18 +22,15 @@
 
 
 /* Projects List Styles */
+
+/* card bg */
 .projectList {
   min-width: 320px;
-  /*margin: 0 auto 30px;*/
   opacity: .95;
   z-index: 10;
 }
 
-.projectList.ul {
-  background: #E6F5F5;
-}
-
-.projectList .li {
+.projectList .project {
   background: #E6F5F5;
   margin: 0;
   border: 1px solid black;
@@ -43,12 +40,7 @@
   transition: all 0.3s ease-out;  
 }
 
-.projectList a {
-  display: block;
-  text-decoration: none;
-}
-
-.projectList .li:hover {
+.projectList .project:hover {
   background: #FDF6E3;
   opacity: 0.9;
 }
