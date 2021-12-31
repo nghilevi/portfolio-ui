@@ -122,6 +122,7 @@
 }
 
 .card__back {
+  padding:5px 5px;
   -webkit-transform: rotateY(-180deg);
           transform: rotateY(-180deg);
 }
