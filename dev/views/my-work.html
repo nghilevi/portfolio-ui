@@ -12,18 +12,20 @@
 
   <!-- filter out empty rankId -->
   <div 
-  class="col-xs-6 col-md-4 project cf li test" 
-  style="cursor: pointer;"
-  ng-animate="'animate'"  
-  ng-repeat="item in projects | filter: query | orderBy:searchOrder">
+    class="col-xs-6 col-md-4 project"
+    ng-repeat="item in projects | filter: query | orderBy:searchOrder">
     
-    <div class="info">
+      <!--flipper-->
       <div class="card effect__click" 
-      ng-click="flip($event)">
+           ng-click="flip($event)">
+        
+        <!--front-->
         <div class="card__front" title="click me!"
-        ng-attr-style="background-image: url('dist/img/project-thumbnails/{{item.noImage ? 'no-image' : item.name}}.png')">
+              ng-attr-style="background-image: url('dist/img/project-thumbnails/{{item.noImage ? 'no-image' : item.name}}.png')">
           <h2 title="Project Name">{{item.name}}</h2>
-        </div><!--front-->
+        </div>
+        
+        <!--back-->
         <div class="card__back" style="padding:5px 5px;">
           <p title="Category">{{item.name}} ({{item.cat}})</p>
           <img class="rating" title="Rating" ng-src="dist/img/rating/{{item.rating}}.png">
@@ -34,9 +36,11 @@
                 <img class="links" ng-src="dist/img/links/{{link.type}}.jpg">
               </a>
           </div>
-        </div><!--back-->
-      </div><!--flipper-->
-    </div>
+        </div>
+
+      </div><!--end of flipper-->
+
+
     
   </div>
 </div>

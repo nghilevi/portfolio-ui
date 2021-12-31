@@ -455,6 +455,12 @@ a.small {
 }
 /* ---------------------------- my-work ----------------------- */
 
+/* No padding surrouding background cover image*/
+.col-xs-6, .col-md-4 {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
 /* Search Styles */
 
 .search {
@@ -500,11 +506,13 @@ a.small {
   opacity: 0.9;
 }
 
-.project img.links {
+.project .links img {
   border: 1px solid black;
   display: block;
   float: right;
   margin: 10px 10px 10px 0;
+  width: 40px;
+  height:auto;
 }
 
 .project .links img:hover {
@@ -515,51 +523,29 @@ a.small {
   transition-duration: 0.25s;
 }
 
-.project info {
-  display: block;
-  float: left;
-  padding-left: 120px !important;
+/* Animation on typing */
+.project.ng-enter.ng-enter-active,
+.project.ng-leave{
+  opacity: 1;
+  overflow: hidden;
 }
 
-.projectinfo {
-  font-size: 1.1em;
-  line-height: 160%;
-  background: #EEE8D5;
-  color: #0F4150;
-  min-width: 320px;
-  max-width: 625px;
-  margin: 0 auto;
-  margin-top: 30px;
-  margin-bottom: 30px;
-  padding: 20px 30px;
-  z-index: 20;
+.project.ng-leave.ng-leave-active,
+.project.ng-enter{
+  opacity: 0;
+  overflow: hidden;
 }
-
-.projectinfo h1{
-  font-size: 1.8em;
-  margin-bottom: 0;
-}
-
-.projectinfo img {
-  width: 40%;
-  max-width: 130px;
-}
-
-.links img {
-  width: 40px;
-  height:auto;
-}
-
-/* No padding surrouding background cover image*/
-.col-xs-6, .col-md-4 {
-  padding-left: 0px;
-  padding-right: 0px;
-}
-
 /*----------------------------------------*/
 /**
  * Cards flipping styles
  */
+
+.card {
+  position: relative;
+  text-align: center;
+  cursor: pointer;
+}
+
 .card__front{
   background-size: cover;
 }
@@ -572,16 +558,10 @@ a.small {
   font-weight: bold;
 }
 
-
- .card, .card__front, .card__back {
+.card, .card__front, .card__back {
   width: 100%;
   height: 20vw;
 }
-.card {
-  position: relative;
-  text-align: center;
-}
-
 
 /* card fronts and backs */
 .card__front,
@@ -589,13 +569,11 @@ a.small {
   position: absolute;
   top: 0;
   left: 0;
-}
 
-.card__front, .card__back {
   -webkit-backface-visibility: hidden;
-          backface-visibility: hidden;
+  backface-visibility: hidden;
   -webkit-transition: -webkit-transform 0.3s;
-          transition: transform 0.3s;
+  transition: transform 0.3s;
 }
 
 .card__back {
@@ -613,20 +591,6 @@ a.small {
   -webkit-transform: rotateY(0);
           transform: rotateY(0);
 }
-
-/* Animation on typing */
-.project.ng-enter.ng-enter-active,
-.project.ng-leave{
-  opacity: 1;
-  overflow: hidden;
-}
-
-.project.ng-leave.ng-leave-active,
-.project.ng-enter{
-  opacity: 0;
-  overflow: hidden;
-}
-
 
 /* my-work */
 #back-to-top{
