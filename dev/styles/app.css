@@ -455,14 +455,13 @@ a.small {
 }
 /* ---------------------------- my-work ----------------------- */
 
-/* No padding surrouding background cover image*/
+/* No padding surrouding background cover image */
 .col-xs-6, .col-md-4 {
   padding-left: 0px;
   padding-right: 0px;
 }
 
-/* Search Styles */
-
+/* ---------------------- SEARCH ---------------------- */
 .search {
     border: 1px solid black;
     padding: 10px;
@@ -480,11 +479,7 @@ a.small {
   outline: 0;
 }
 
-
-
-/* Projects List Styles */
-
-/* flipper bg */
+/* ---------------------- CARDS ---------------------- */
 .cards {
   min-width: 320px;
   opacity: .95;
@@ -535,35 +530,17 @@ a.small {
   opacity: 0;
   overflow: hidden;
 }
-/*----------------------------------------*/
-/**
- * Cards flipping styles
- */
 
-.flipper {
-  position: relative;
-  text-align: center;
-  cursor: pointer;
-}
+/* ---------------------- FLIPPER ---------------------- */
 
-.flipper-front{
-  background-size: cover;
-}
-.flipper-front h2{
-  background: linear-gradient(rgba(0, 0, 0, 1), transparent) repeat scroll 0 0 rgba(0, 0, 0, 0);
-  font-size: 1.25em;
-  margin-top: 0;
-  padding: 20px;
-  text-align: center;
-  font-weight: bold;
-}
-
-.flipper, .flipper-front, .flipper-back {
+/* common */
+.flipper, 
+.flipper-front, 
+.flipper-back {
   width: 100%;
   height: 20vw;
 }
 
-/* flipper fronts and backs */
 .flipper-front,
 .flipper-back {
   position: absolute;
@@ -576,24 +553,46 @@ a.small {
   transition: transform 0.3s;
 }
 
+.flipper {
+  position: relative;
+  text-align: center;
+  cursor: pointer;
+}
+
+.flipper-front {
+  background-size: cover;
+}
+
 .flipper-back {
-  padding:5px 5px;
   -webkit-transform: rotateY(-180deg);
           transform: rotateY(-180deg);
 }
 
 /* click effect */
-.flipper.effect__click.flipped .flipper-front {
+.flipper.flipped .flipper-front {
   -webkit-transform: rotateY(-180deg);
           transform: rotateY(-180deg);
 }
 
-.flipper.effect__click.flipped .flipper-back {
+.flipper.flipped .flipper-back {
   -webkit-transform: rotateY(0);
           transform: rotateY(0);
 }
 
-/* my-work */
+/* custom styles */
+.flipper-front h2{
+  margin-top: 0;
+  padding: 20px;
+  background: linear-gradient(rgba(0, 0, 0, 1), transparent) repeat scroll 0 0 rgba(0, 0, 0, 0);
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+.flipper-back{
+  padding: 20px;
+}
+
+/* ---------------------- BACK-TO-TOP ---------------------- */
 #back-to-top{
   position: fixed;
   bottom: 0;
