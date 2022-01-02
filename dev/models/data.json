@@ -476,14 +476,14 @@
         "links": [
             {
                 "type": "github",
-                "url": "https://github.com/vinhnghi223/WEB-LAB/tree/gh-pages/anjalanvpk.fi"
+                "url": "https://github.com/vinhnghi223/anjalanvpk.fi"
             },
             {
                 "type": "demo",
                 "url": "http://anjalanvpk.fi/sis%C3%A4lt%C3%B6/ajoneuvot"
             }
         ],
-        "description": "",
+        "description": "Anjalan VPK vehicle and equipments' pages",
         "rankId": 17,
         "rating": 3
     },
@@ -529,15 +529,19 @@
                 "url": "https://github.com/vinhnghi223/Real-Time-Menu-App"
             },
             {
+                "type": "github",
+                "url": "https://github.com/vinhnghi223/web-bar-laurea"
+            },
+            {
                 "type": "demo",
-                "url": "http://vinhnghi223.github.io/android-web-bar-laurea-app/Bar-Laurea-Menu-Web-App"
+                "url": "https://vinhnghi223.github.io/web-bar-laurea/"
             },
             {
                 "type": "download",
                 "url": "http://goo.gl/WdPE0E"
             }
         ],
-        "description": "",
+        "description": "Barlaurea restauran app, include an Android and web app (2014)",
         "rankId": 19,
         "rating": 3
     },
@@ -560,7 +564,7 @@
                 "url": "https://www.youtube.com/watch?v=3MRKoL75MOo"
             }
         ],
-        "description": "",
+        "description": "An app that helps Laurea students to order and pay for their beverage at bar Laurea (2014)",
         "rankId": 20,
         "rating": 3
     },
@@ -579,7 +583,7 @@
                 "url": "http://vinhnghi223.github.io/aiesec-hy.fi/"
             }
         ],
-        "description": "",
+        "description": "AIESEC Helsinki University's website version 1.0",
         "rankId": 21,
         "rating": 2
     },
@@ -660,7 +664,7 @@
         "links": [
             {
                 "type": "github",
-                "url": "https://github.com/vinhnghi223/WEB-APPS-PROJECTS/tree/gh-pages/epsvn.com"
+                "url": "https://github.com/vinhnghi223/epsvn.com"
             },
             {
                 "type": "demo",
@@ -668,7 +672,7 @@
             },
             {
                 "type": "demo",
-                "url": "http://vinhnghi223.github.io/WEB-APPS-PROJECTS/epsvn.com/home.html"
+                "url": "https://vinhnghi223.github.io/epsvn.com/"
             }
         ],
         "description": "",
@@ -702,30 +706,30 @@
         "links": [
             {
                 "type": "github",
-                "url": "https://github.com/vinhnghi223/WEB-LAB/tree/gh-pages/hoi2.info"
+                "url": "https://github.com/vinhnghi223/kipukorjaus.fi"
             },
             {
                 "type": "demo",
                 "url": "http://kipukorjaus.fi/"
             }
         ],
-        "description": "",
+        "description": "Kipukorjaus, which means 'Pain correction' in English, is Dr. Pertti Rudolf Lindholm's personal website.",
         "rankId": 28,
         "rating": 2
     },
     {
         "_id": "55239b8bebd4f06aa95fed20",
-        "name": "LinkedByMusic.com",
+        "name": "linkedbymusic.com",
         "cat": "Web",
         "technologies": "JavaScript, HTML5, CSS3",
         "links": [
             {
                 "type": "github",
-                "url": "https://github.com/vinhnghi223/WEB-APPS-PROJECTS/tree/gh-pages/LinkedByMusic.com"
+                "url": "https://github.com/vinhnghi223/linkedbymusic.com"
             },
             {
                 "type": "demo",
-                "url": "http://vinhnghi223.github.io/WEB-APPS-PROJECTS/LinkedByMusic.com/"
+                "url": "https://vinhnghi223.github.io/linkedbymusic.com/"
             }
         ],
         "description": "",
@@ -774,11 +778,11 @@
         "links": [
             {
                 "type": "github",
-                "url": "https://github.com/vinhnghi223/HTML5-GAMES/tree/master/The%20Great%20Escape"
+                "url": "https://github.com/vinhnghi223/the-great-escape"
             },
             {
                 "type": "demo",
-                "url": "http://vinhnghi223.github.io/HTML5-GAMES/The%20Great%20Escape/"
+                "url": "https://vinhnghi223.github.io/the-great-escape/"
             },
             {
                 "type": "youtube",
@@ -797,14 +801,14 @@
         "links": [
             {
                 "type": "github",
-                "url": "https://github.com/vinhnghi223/HTML5-GAMES/tree/master/Lake%20Volleyball"
+                "url": "https://github.com/vinhnghi223/lake-volleyball"
             },
             {
                 "type": "demo",
-                "url": "http://vinhnghi223.github.io/HTML5-GAMES/Lake%20Volleyball/"
+                "url": "https://vinhnghi223.github.io/lake-volleyball/"
             }
         ],
-        "description": "",
+        "description": "A 2 player volleyball game",
         "rating": 1,
         "rankId": 31
     },
@@ -824,6 +828,24 @@
             }
         ],
         "description": "",
+        "rankId": 31,
+        "rating": 1
+    },
+    {
+        "name": "Housing Search App",
+        "cat": "Web App",
+        "technologies": "HTML5, CSS3, JavaScript",
+        "links": [
+            {
+                "type": "github",
+                "url": "https://github.com/vinhnghi223/house-search-app"
+            },
+            {
+                "type": "demo",
+                "url": "https://vinhnghi223.github.io/house-search-app/"
+            }
+        ],
+        "description": "A concept for housing searching wep app in Helsinki area",
         "rankId": 31,
         "rating": 1
     },
@@ -946,11 +968,11 @@
         "links": [
             {
                 "type": "github",
-                "url": "https://github.com/vinhnghi223/WEB-APPS-PROJECTS/tree/gh-pages/QR-Generator"
+                "url": "https://github.com/vinhnghi223/qr-generator"
             },
             {
                 "type": "demo",
-                "url": "https://vinhnghi223.github.io/WEB-APPS-PROJECTS/QR-Generator/www/"
+                "url": "https://vinhnghi223.github.io/qr-generator/www"
             }
         ],
         "description": "",
