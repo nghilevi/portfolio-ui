@@ -79,7 +79,7 @@
                 "url": "https://1drv.ms/u/s!Aof-bLtD6TvYgsFw4eAMB5YsdDxM0w?e=u6liIG"
             }
         ],
-        "description": "A great lightweight app that allows students to quickly locate rooms in just less than 0.1 second.",
+        "description": "Near By Location app allows you to search most popular venues by categories from Foursquare. The app offer a beautiful UI and UX design as well as a unique map view component.",
         "rankId": 2,
         "rating": 3
     },
@@ -564,7 +564,7 @@
                 "url": "http://goo.gl/WdPE0E"
             }
         ],
-        "description": "Barlaurea restauran app, include an Android and web app (2014)",
+        "description": "Barlaurea restaurant app includes an Android and web app. The menu is updated in real-time.",
         "rankId": 19,
         "rating": 3
     },
@@ -680,7 +680,7 @@
                 "url": "http://goo.gl/S9762r"
             }
         ],
-        "description": "",
+        "description": "Pedometer is the name of an instrument that estimates the distance traveled on foot by recording the number of steps taken.",
         "rankId": 25,
         "rating": 2
     },
@@ -704,7 +704,7 @@
                 "url": "https://vinhnghi223.github.io/epsvn.com/"
             }
         ],
-        "description": "",
+        "description": "EPVS - Educational Programs for Vietnamese Students website",
         "rankId": 26,
         "rating": 2
     },
@@ -732,7 +732,7 @@
         "_id": "55239b8bebd4f06aa95fed19",
         "name": "Kipukorjaus.fi",
         "cat": "Web",
-        "year": 2013,
+        "year": 2014,
         "technologies": "PHP, Wordpress, JavaScript",
         "links": [
             {
@@ -764,7 +764,7 @@
                 "url": "https://vinhnghi223.github.io/linkedbymusic.com/"
             }
         ],
-        "description": "",
+        "description": "A social network for bands, singers, musicians and music lovers",
         "rankId": 26,
         "rating": 2
     },
@@ -824,7 +824,7 @@
                 "url": "https://www.youtube.com/watch?v=seTbVO0Lb1E"
             }
         ],
-        "description": "",
+        "description": "The game is a story about a boy striving to cross the border between North and South Korea.",
         "rankId": 30,
         "rating": 2
     },
@@ -1020,7 +1020,7 @@
                 "url": "https://vinhnghi223.github.io/qr-generator/www"
             }
         ],
-        "description": "",
+        "description": "QR code generator for payment application - 'scan to pay'",
         "rankId": 38,
         "rating": 1
     },
