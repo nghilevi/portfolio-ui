@@ -3,6 +3,7 @@
         "_id": "abc",
         "name": "Nordea",
         "cat": "Web",
+        "year": "2015-present",
         "technologies": "Angular, TypeScript, AngularJs, HTML5, CSS3, Sass, JavaScript",
         "links": [
             {
@@ -29,7 +30,8 @@
     {
         "_id": "55239b8bebd4f06aa95fed08",
         "name": "Ventoura",
-        "cat": "Mobile App",
+        "cat": "Mobile",
+        "year": 2014,
         "technologies": "Java, Android, Eclipse, Android Studio",
         "links": [
             {
@@ -64,7 +66,8 @@
     {
         "_id": "55239b8bebd4f06aa95fed09",
         "name": "Near By Location Android App",
-        "cat": "Mobile App",
+        "cat": "Mobile",
+        "year": 2014,
         "technologies": "Java, Android, Android Studio",
         "links": [
             {
@@ -83,7 +86,8 @@
     {
         "_id": "",
         "name": "Createtrips.com",
-        "cat": "Web App",
+        "cat": "Web",
+        "year": 2014,
         "technologies": "Wordpress, HTML, CSS",
         "links": [
             {
@@ -107,6 +111,7 @@
         "_id": "55239b8bebd4f06aa95fed06",
         "name": "meetingpackage.com",
         "cat": "Web",
+        "year": 2014,
         "technologies": "HTML5, CSS3, JavaScript, PHP, Drupal",
         "links": [
             {
@@ -122,6 +127,7 @@
         "_id": "null",
         "name": "Cloud Picker",
         "cat": "Web",
+        "year": 2021,
         "technologies": "ReactJs, TypeScript, Sass",
         "links": [
             {
@@ -141,6 +147,7 @@
         "_id": "55239b8bebd4f06aa95fed21",
         "name": "Datafarmer UI",
         "cat": "Web",
+        "year": 2015,
         "technologies": "AngularJs, JavaScript, CoffeeScript, HTML5, CSS3, Bootstrap, Grunt",
         "links": [
             {
@@ -160,6 +167,7 @@
         "_id": "55239b8bebd4f06aa95fed1f",
         "name": "Finnish Tax Office App",
         "cat": "Web",
+        "year": 2014,
         "technologies": "JavaScript, HTML5, CSS3, Axure",
         "links": [
             {
@@ -178,6 +186,7 @@
     {
         "_id": "55239b8bebd4f06aa95fed1f",
         "name": "React Users Search",
+        "year": 2021,
         "cat": "Web",
         "technologies": "ReactJs, TypeScript, HTML5, Sass",
         "links": [
@@ -197,6 +206,7 @@
     {
         "_id": "55239b8bebd4f06aa95fed1b",
         "name": "Vinhnghi223.github.io",
+        "year": 2015,
         "cat": "Web",
         "technologies": "AngularJs, Grunt, MongoDB, Yeoman, Bower, JavaScript, HTML5, CSS3, Bootstrap",
         "links": [
@@ -216,7 +226,8 @@
     {
         "_id": "a4",
         "name": "foundation-apps-modal",
-        "cat": "Web",
+        "cat": "Web, NPM",
+        "year": 2016,
         "technologies": "AngularJs, JavaScript",
         "noImage": false,
         "links": [
@@ -244,8 +255,9 @@
     {
         "_id": "a2",
         "name": "gulp-release-easy",
+        "year": 2016,
         "noImage": false,
-        "cat": "NodeJS",
+        "cat": "NPM",
         "technologies": "JavaScript, NodeJS",
         "links": [
             {
@@ -268,7 +280,8 @@
     {
         "_id": "a6",
         "name": "moment-calendar-2",
-        "cat": "Web",
+        "year": 2016,
+        "cat": "Web, NPM",
         "technologies": "NodeJS, JavaScript",
         "noImage": false,
         "links": [
@@ -296,8 +309,9 @@
     {
         "_id": "a3",
         "name": "ng-checkbox",
-        "cat": "JavaScript, Gulp",
-        "technologies": "JavaScript",
+        "cat": "Web, NPM",
+        "year": 2016,
+        "technologies": "AngularJs, JavaScript",
         "noImage": false,
         "links": [
             {
@@ -324,7 +338,8 @@
     {
         "_id": "a5",
         "name": "ng-paginator",
-        "cat": "Web",
+        "year": 2016,
+        "cat": "Web, NPM",
         "technologies": "AngularJs, JavaScript",
         "noImage": false,
         "links": [
@@ -352,7 +367,8 @@
     {
         "_id": "5as1f",
         "name": "ui-chips",
-        "cat": "Web",
+        "cat": "Web, NPM",
+        "year": 2021,
         "technologies": "TypeScript, StencilJS, Web component",
         "links": [
             {
@@ -375,7 +391,8 @@
     {
         "_id": "5assd1f",
         "name": "uiw-slider",
-        "cat": "Web",
+        "cat": "Web, NPM",
+        "year": 2021,
         "technologies": "TypeScript, StencilJS, Web component",
         "links": [
             {
@@ -390,7 +407,8 @@
     {
         "_id": "assda",
         "name": "uiw-input-number",
-        "cat": "Web",
+        "cat": "Web, NPM",
+        "year": 2021,
         "technologies": "TypeScript, StencilJS, Web component",
         "links": [
             {
@@ -417,7 +435,8 @@
     {
         "_id": "ss",
         "name": "ui-percentage-bar",
-        "cat": "Web",
+        "cat": "Web, NPM",
+        "year": 2021,
         "technologies": "TypeScript, StencilJS, Web component",
         "links": [
             {
@@ -444,7 +463,8 @@
     {
         "_id": "assda",
         "name": "ui-percentage-circle",
-        "cat": "Web",
+        "cat": "Web, NPM",
+        "year": 2021,
         "technologies": "TypeScript, StencilJS, Web component",
         "links": [
             {
@@ -472,6 +492,7 @@
         "_id": "55239b8bebd4f06aa95fed14",
         "name": "Anjalanvpk.fi",
         "cat": "Web",
+        "year": 2013,
         "technologies": "HTML5, CSS3, JavaScript, Drupal",
         "links": [
             {
@@ -490,7 +511,8 @@
     {
         "_id": "55239b8bebd4f06aa95fed0a",
         "name": "Laurea Room Finder",
-        "cat": "Mobile App",
+        "cat": "Mobile, Web",
+        "year": 2013,
         "technologies": "HTML5, CSS3, JavaScript, JQuery, PhoneGap/Cordova",
         "links": [
             {
@@ -521,7 +543,8 @@
     {
         "_id": "55239b8bebd4f06aa95fed0d",
         "name": "Real Time Menu App",
-        "cat": "Mobile App, Web",
+        "cat": "Mobile, Web",
+        "year": 2014,
         "technologies": "Java, Android, Eclipse, Wordpress, JavaScript, AngularJs, Bootstrap, Firebase",
         "links": [
             {
@@ -548,7 +571,8 @@
     {
         "_id": "55239b8bebd4f06aa95fed0e",
         "name": "Bar Laurea Android Application",
-        "cat": "Mobile App",
+        "cat": "Mobile",
+        "year": 2014,
         "technologies": "Java, Android, Eclipse",
         "links": [
             {
@@ -572,6 +596,7 @@
         "_id": "55239b8bebd4f06aa95fed18",
         "name": "Aiesec-hy.fi",
         "cat": "Web",
+        "year": 2012,
         "technologies": "HTML5, CSS3, JavaScript, Bootstrap",
         "links": [
             {
@@ -590,7 +615,8 @@
     {
         "_id": "55239b8bebd4f06aa95fed0c",
         "name": "Smart Mobile Expense Manager",
-        "cat": "Mobile App",
+        "cat": "Mobile",
+        "year": 2013,
         "technologies": "Java, Android, Android Studio",
         "links": [
             {
@@ -613,7 +639,8 @@
     {
         "_id": "55239b8bebd4f06aa95fed1e",
         "name": "Giggle Bug",
-        "cat": "Game",
+        "cat": "Game, Web",
+        "year": 2013,
         "technologies": "JavaScript, HTML5, CSS3",
         "links": [
             {
@@ -632,7 +659,8 @@
     {
         "_id": "55239b8bebd4f06aa95fed0b",
         "name": "Real Time Pedometer App",
-        "cat": "Mobile App, Web",
+        "cat": "Mobile, Web",
+        "year": 2014,
         "technologies": "Android, Java, JavaScript, AngularJs, Bootstrap, JQuery, Firebase, D3.js",
         "links": [
             {
@@ -660,6 +688,7 @@
         "_id": "55239b8bebd4f06aa95fed20",
         "name": "Epvs.edu.vn",
         "cat": "Web",
+        "year": 2012,
         "technologies": "JavaScript, HTML5, CSS3",
         "links": [
             {
@@ -683,6 +712,7 @@
         "_id": "55239b8bebd4f06aa95fed17",
         "name": "Hetihierontaan.fi",
         "cat": "Web",
+        "year": 2013,
         "technologies": "Wordpress, PHP, HTML5, CSS3, JavaScript",
         "links": [
             {
@@ -702,6 +732,7 @@
         "_id": "55239b8bebd4f06aa95fed19",
         "name": "Kipukorjaus.fi",
         "cat": "Web",
+        "year": 2013,
         "technologies": "PHP, Wordpress, JavaScript",
         "links": [
             {
@@ -721,6 +752,7 @@
         "_id": "55239b8bebd4f06aa95fed20",
         "name": "linkedbymusic.com",
         "cat": "Web",
+        "year": 2013,
         "technologies": "JavaScript, HTML5, CSS3",
         "links": [
             {
@@ -740,6 +772,7 @@
         "_id": "55239b8bebd4f06aa95fed07",
         "name": "Student Directory",
         "cat": "Web",
+        "year": 2015,
         "technologies": "MongoDB, ExpressJS, AngularJs, NodeJS, Bootstrap, Grunt",
         "links": [
             {
@@ -759,11 +792,12 @@
         "_id": "55239b8bebd4f06aa95fed1d",
         "name": "Game Portfolio Wordpress Theme",
         "cat": "Web",
+        "year": 2013,
         "technologies": "Wordpress, PHP, HTML5, CSS3",
         "links": [
             {
                 "type": "github",
-                "url": "https://github.com/vinhnghi223/Game-Portfolio-Website"
+                "url": "https://github.com/vinhnghi223/Game, Web-Portfolio-Website"
             }
         ],
         "description": "",
@@ -773,7 +807,8 @@
     {
         "_id": "55239b8bebd4f06aa95fed16",
         "name": "The Great Escape",
-        "cat": "Game",
+        "cat": "Game, Web",
+        "year": 2013,
         "technologies": "HTML5, JavaScript, Construct2",
         "links": [
             {
@@ -796,7 +831,8 @@
     {
         "_id": "55239b8bebd4f06aa95fed15",
         "name": "Lake Volleyball",
-        "cat": "Game",
+        "cat": "Game, Web",
+        "year": 2013,
         "technologies": "HTML5, JavaScript, Construct2",
         "links": [
             {
@@ -808,14 +844,15 @@
                 "url": "https://vinhnghi223.github.io/lake-volleyball/"
             }
         ],
-        "description": "A 2 player volleyball game",
+        "description": "A 2 player volleyball Game, Web",
         "rating": 1,
         "rankId": 31
     },
     {
         "_id": "55239b8bebd4f06aa95fed0f",
         "name": "Product Showcase App",
-        "cat": "Mobile App",
+        "cat": "Mobile, Web",
+        "year": 2013,
         "technologies": "PhoneGap/Cordova, JQuery Mobile",
         "links": [
             {
@@ -833,7 +870,8 @@
     },
     {
         "name": "Housing Search App",
-        "cat": "Web App",
+        "cat": "Mobile, Web",
+        "year": 2013,
         "technologies": "HTML5, CSS3, JavaScript",
         "links": [
             {
@@ -852,7 +890,8 @@
     {
         "_id": "55239b8bebd4f06aa95fed10",
         "name": "Note Taking App For Android",
-        "cat": "Mobile App",
+        "cat": "Mobile",
+        "year": 2013,
         "technologies": "Java, Android, Eclipse",
         "links": [
             {
@@ -871,7 +910,8 @@
     {
         "_id": "55239b8bebd4f06aa95fed12",
         "name": "Sheep Counting App",
-        "cat": "Mobile App",
+        "cat": "Mobile, Web",
+        "year": 2013,
         "technologies": "PhoneGap, HTML5, JQuery Mobile",
         "links": [
             {
@@ -891,6 +931,7 @@
         "_id": "55239b8bebd4f06aa95fed1a",
         "name": "Codingisloving.com",
         "cat": "Web",
+        "year": 2013,
         "technologies": "PHP, Wordpress",
         "links": [
             {
@@ -909,7 +950,8 @@
     {
         "_id": "55239b8bebd4f06aa95fed16",
         "name": "Lenni 3D model",
-        "cat": "Game",
+        "cat": "Game, 3D model",
+        "year": 2013,
         "technologies": "Maya",
         "links": [
             {
@@ -921,7 +963,7 @@
                 "url": "https://skfb.ly/AOJu"
             }
         ],
-        "description": "Lenni is the mascot of LAUREAMKO and a main character of “The adventure of Lenni” game",
+        "description": "Lenni is the mascot of LAUREAMKO and a main character of “The adventure of Lenni” Game, Web",
         "rankId": 36,
         "rating": 2
     },
@@ -930,6 +972,7 @@
         "name": "venues-rest-api",
         "noImage": false,
         "cat": "API",
+        "year": 2017,
         "technologies": "Java, Springboot",
         "links": [
             {
@@ -944,7 +987,8 @@
     {
         "_id": "55239b8bebd4f06aa95fed11",
         "name": "Polish Zloty To Euro Conversion",
-        "cat": "Mobile App",
+        "cat": "Mobile",
+        "year": 2013,
         "technologies": "Java, Android, Android Studio",
         "links": [
             {
@@ -963,7 +1007,8 @@
     {
         "_id": "55239b8bebd4f06aa95fed1c",
         "name": "QR Code Generator",
-        "cat": "Hybrid",
+        "cat": "Mobile, Web",
+        "year": 2014,
         "technologies": "JavaScript, HTML5, CSS3, jQuery, PhoneGap/Cordova",
         "links": [
             {
@@ -983,7 +1028,8 @@
         "_id": "55239b8bebd4f06aa95fed13",
         "name": "Body Mass Index Calculator",
         "noImage": true,
-        "cat": "Mobile App",
+        "cat": "Mobile",
+        "year": 2013,
         "technologies": "Java, Android, Eclipse",
         "links": [
             {
