@@ -453,21 +453,13 @@ a.small {
     }
 
 }
-/* ---------------------------- my-work ----------------------- */
-
-/* No padding surrouding background cover image */
-.col-xs-6, .col-md-4 {
-  padding-left: 0px;
-  padding-right: 0px;
-}
-
 /* ---------------------- SEARCH ---------------------- */
 .search {
-    border: 1px solid black;
-    padding: 10px;
-    z-index: 20;
-    background-color: #D3D3D3;
-    text-align: center;
+  border: 1px solid black;
+  padding: 10px;
+  z-index: 20;
+  background-color: #D3D3D3;
+  text-align: center;
 }
 
 .search input {
@@ -481,9 +473,21 @@ a.small {
 
 /* ---------------------- CARDS ---------------------- */
 .cards {
-  min-width: 320px;
   opacity: .95;
-  z-index: 10;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+@media screen and (max-width:870px){
+  .cards {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media screen and (max-width:600px){
+  .cards {
+    grid-template-columns: 1fr;
+  }
 }
 
 .cards .card {
@@ -496,7 +500,7 @@ a.small {
   transition: all 0.3s ease-out;  
 }
 
-.cards .card:hover {
+.card:hover {
   background: #FDF6E3;
   opacity: 0.9;
 }
@@ -530,6 +534,7 @@ a.small {
   opacity: 0;
   overflow: hidden;
 }
+
 
 /* ---------------------- FLIPPER ---------------------- */
 
