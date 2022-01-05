@@ -23,18 +23,6 @@
   grid-template-columns: 1fr 1fr 1fr;
 }
 
-@media screen and (max-width:870px){
-  .cards {
-    grid-template-columns: 1fr 1fr;
-  }
-}
-
-@media screen and (max-width:600px){
-  .cards {
-    grid-template-columns: 1fr;
-  }
-}
-
 .cards .card {
   background: #E6F5F5;
   margin: 0;
@@ -83,7 +71,11 @@
 
 /* ---------------------- FLIPPER ---------------------- */
 
-/* common */
+.flipper {
+  position: relative;
+  cursor: pointer;
+}
+
 .flipper, 
 .flipper-front, 
 .flipper-back {
@@ -103,16 +95,6 @@
   transition: transform 0.3s;
 }
 
-.flipper {
-  position: relative;
-  text-align: center;
-  cursor: pointer;
-}
-
-.flipper-front {
-  background-size: cover;
-}
-
 .flipper-back {
   -webkit-transform: rotateY(-180deg);
           transform: rotateY(-180deg);
@@ -129,17 +111,37 @@
           transform: rotateY(0);
 }
 
-/* custom styles */
-.flipper-front h2{
-  margin-top: 0;
+/* ---------------------- FLIPPER CUSTOM CONTENT ---------------------- */
+
+.flipper-front .flipper-content{
+  text-align: center;
+  height: 100%;
+  margin-top: -10px;
+}
+
+.flipper-front .flipper-content h2{
   padding: 20px;
-  background: linear-gradient(rgba(0, 0, 0, 1), transparent) repeat scroll 0 0 rgba(0, 0, 0, 0);
+  background-image: linear-gradient(to bottom, black, rgba(0,0,0,0));
   font-size: 1.25em;
   font-weight: bold;
 }
 
-.flipper-back{
+.flipper-back .flipper-content{
   padding: 20px;
+}
+
+/* ---------------------- SMALL SCREENS ---------------------- */
+
+@media screen and (max-width:870px){
+  .cards {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media screen and (max-width:600px){
+  .cards {
+    grid-template-columns: 1fr;
+  }
 }
 
 /* ---------------------- BACK-TO-TOP ---------------------- */
