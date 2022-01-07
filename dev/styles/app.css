@@ -607,7 +607,7 @@ a.small {
 
 /* ---------------------- SMALL SCREENS ---------------------- */
 
-/* medium screen */
+/* medium screen: 2 COLUMNS */
 @media screen and (max-width:900px){
   .cards {
     grid-template-columns: 1fr 1fr;
@@ -616,8 +616,22 @@ a.small {
     height: 35vw;
   }
 }
+/* temporary responsive font-size solution */
+@media screen and (max-width:1050px) and (min-width:900px){
+  .flipper-content h2 {
+    font-size: 0.9rem;
+  }
+  .flipper-content h3 {
+    font-size: 0.85rem;
+    line-height: 0.8rem;
+  }
+  .flipper-content p {
+    font-size: 0.75rem;
+    line-height: 1rem;
+  }
+}
 
-/* narrow screen */
+/* narrow screen 1 COLUMN */
 @media screen and (max-width:750px){
   .cards {
     grid-template-columns: 1fr;
