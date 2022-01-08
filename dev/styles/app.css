@@ -299,10 +299,34 @@ a.small {
     margin-left: -75px;
 }
 
+.photo .pointer{
+    /*background: url('../img/cursor.png') center no-repeat;*/
+    font-size: 1.5rem;
+    position: absolute;
+    top: 56%;
+    right: 37%;
+    -webkit-animation: action 1s infinite  alternate;
+    animation: action 1s infinite  alternate;
+}
+
+@-webkit-keyframes action {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-10px); }
+}
+
+@keyframes action {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-10px); }
+}
+
 #intro #avt:hover{
-      -webkit-box-shadow: 0 0 10px #000; /*#888*/
-     -moz-box-shadow: 0 0 10px #000;
+    -webkit-box-shadow: 0 0 10px #000; /*#888*/
+    -moz-box-shadow: 0 0 10px #000;
           box-shadow: 0 0 10px #000;
+}
+
+#avt:hover .pointer{
+    display: none;
 }
 
 #intro p{
