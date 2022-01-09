@@ -356,6 +356,8 @@ app.controller('about-me', ['$scope', function($scope) {
       $('html, body').animate({
           scrollTop: 310
       }, 400);
+
+      $("#avt .pointer").hide()
   });
 
   $("#avt").hover(function() {
