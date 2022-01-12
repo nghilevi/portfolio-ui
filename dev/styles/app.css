@@ -259,15 +259,14 @@ a.small {
     top: 10%;
 }
 
-
 #intro h1{
   -webkit-transform: rotate(-49deg);
      -moz-transform: rotate(-49deg);
       -ms-transform: rotate(-49deg);
        -o-transform: rotate(-49deg);
           transform: rotate(-49deg);
-    margin-bottom: 45%;
-    margin-left: -173px;
+    margin-bottom: 40%;
+    margin-left: -200px;
 }
 
 #intro h1.moving{
