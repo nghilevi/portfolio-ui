@@ -131,6 +131,17 @@
     font-weight: bold;
 }
 
+#intro .social-media-links {
+    display: flex;
+    margin-left: -175px;
+    column-gap: 5px;
+}
+
+#intro .social-media-links img{
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
 
 /* --------------------- Slide 2 --------------------- 1*/
 #slide-2{
