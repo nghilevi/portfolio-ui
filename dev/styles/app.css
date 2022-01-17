@@ -298,12 +298,11 @@ a.small {
     margin-left: -75px;
 }
 
-.photo .pointer{
-    /*background: url('../img/cursor.png') center no-repeat;*/
+.menu .pointer{
     font-size: 1.5rem;
     position: absolute;
-    top: 50%;
-    right: 55%;
+    top: 20%;
+    right: -65%;
     -webkit-animation: action 1s infinite  alternate;
     animation: action 1s infinite  alternate;
 }
