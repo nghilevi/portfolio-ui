@@ -11,13 +11,13 @@
     color: #fff;
 }
 
-#slides-container{
+.slides-container{
     width:100%;
     height: 100%;
     overflow: hidden;
 }
 
-#slides{
+.slides{
     width:200%;
     height: 200%;
     position: fixed;
@@ -40,17 +40,17 @@
 }
 
 /* --------------------- Slide 1 --------------------- 1*/
-#slide-1{
+.slide-1{
     background: url("../img/slide-background/bcg_slide-1.jpg") no-repeat center center; /*6, 18 */
     background-size: cover;
 }
-#intro{
+.intro{
     position: absolute;
     left:50%;
     top: 10%;
 }
 
-#intro h1{
+.intro h1{
   -webkit-transform: rotate(-49deg);
      -moz-transform: rotate(-49deg);
       -ms-transform: rotate(-49deg);
@@ -60,7 +60,7 @@
     margin-left: -200px;
 }
 
-#intro h1.moving{
+.intro h1.moving{
     -webkit-transform: rotate(-45deg);
      -moz-transform: rotate(-45deg);
       -ms-transform: rotate(-45deg);
@@ -68,7 +68,7 @@
           transform: rotate(-45deg);
 }
 
-#intro h1, #intro p{
+.intro h1, .intro p{
     color: #fff;
     -webkit-transition: all 0.3s ease-out;
     -moz-transition: all 0.3s ease-out;
@@ -76,7 +76,7 @@
     transition: all 0.3s ease-out;  
 }
 
-#intro #avt{
+.intro .avt{
     width: 150px;
     height: 150px;
     background: url('../img/avt.png') center center no-repeat;
@@ -108,42 +108,42 @@
     100% { transform: translateX(-10px); }
 }
 
-#intro #avt:hover{
+.intro .avt:hover{
     -webkit-box-shadow: 0 0 10px #000; /*#888*/
     -moz-box-shadow: 0 0 10px #000;
           box-shadow: 0 0 10px #000;
 }
 
-#avt:hover .pointer{
+.avt:hover .pointer{
     display: none;
 }
 
-#intro p{
+.intro p{
     margin-left: -175px;
     margin-top: 10px;
     font-weight: bold;
 }
 
-#intro p.moving{
+.intro p.moving{
     margin-left: -175px;
     margin-top: 15px;
     font-weight: bold;
 }
 
-#intro .social-media-links {
+.intro .social-media-links {
     display: flex;
     margin-left: -175px;
     column-gap: 5px;
 }
 
-#intro .social-media-links img{
+.intro .social-media-links img{
     width: 30px;
     height: 30px;
     cursor: pointer;
 }
 
 /* --------------------- Slide 2 --------------------- 1*/
-#slide-2{
+.slide-2{
     background: url("../img/slide-background/bcg_slide-2.jpg") no-repeat center center;
     background-size: cover;
     -ms-transform: translate(0,100%); /* IE 9 */
@@ -151,14 +151,14 @@
     transform: translate(0,100%);
 }
 
-#slide-2 .caption p{
+.slide-2 .caption p{
     color: #47373f;
     margin: 6% 32% 0 5% ;
     font-size: 1.45em;
 }
 
 /* --------------------- Slide 3 --------------------- 1*/
-#slide-3{
+.slide-3{
     background: url("../img/slide-background/bcg_slide-3.jpg") no-repeat center center;
     background-size: cover;
     -ms-transform: translate(100%,100%); /* IE 9 */
@@ -166,14 +166,14 @@
     transform: translate(100%,100%);
 }
 
-#slide-3 .caption p{
+.slide-3 .caption p{
     color: #630;
     margin: 10% 57% 0 5%;
     padding: 15px;
 }
 
 /* --------------------- Slide 4 --------------------- 1*/
-#slide-4{
+.slide-4{
     background: url("../img/slide-background/bcg_slide-4.jpg") no-repeat center center;
     background-size: cover;
     -ms-transform: translate(100%,0); /* IE 9 */
@@ -181,34 +181,34 @@
     transform: translate(100%,0);
 }
 
-#slide-4 .caption{
+.slide-4 .caption{
     position: absolute;
     margin-left: 60%;
     margin-right: 10%;
     margin-top: 5%;
 }
 
-#slide-4 .caption, #slide-4 .caption p, #slide-4 .caption h1{
+.slide-4 .caption, .slide-4 .caption p, .slide-4 .caption h1{
     color: white;
     text-align: right; 
 }
 
-#slide-4 p{
+.slide-4 p{
     margin-bottom: 200px;
 }
 
-#slide-4  #social-media img{
+.slide-4  .social-media img{
     width: 40px;
     height: 40px;
     border: 1px solid white;
 }
 
-#slide-4  #social-media img:hover{
+.slide-4  .social-media img:hover{
     opacity: 0.8;
     border: 1px solid white;
 }
 
-#slide-4  .my-address{
+.slide-4  .my-address{
     font-size: 1em;
     font-style: italic;
     line-height: 0;
@@ -218,60 +218,60 @@
 
 /* Everything switchs to mobile mode here */
 @media only screen and (max-width: 700px){
-    #slide-3 .caption p{
+    .slide-3 .caption p{
         margin: 5% 57% 0 5%;
         font-size: 1em;
     }
 
-    #slide-4 .caption{
+    .slide-4 .caption{
         margin-top: 5%;
     }
 
-    #slide-4 p{
+    .slide-4 p{
         margin-bottom: 100px;
     }
 }
 @media only screen and (max-width: 500px){
-    #slide-2 .caption p{
+    .slide-2 .caption p{
         font-size: 1.2em;
     }
 
-    #slide-3 .caption p{
+    .slide-3 .caption p{
         margin: 2% 30% 0 2%;
         font-size: 0.9em;
     }
  
-     #slide-4 .caption{
+     .slide-4 .caption{
         margin: 20% 5% auto 5%;
         text-align: center; 
      }
-    #slide-4 .caption h1{
+    .slide-4 .caption h1{
         font-size: 1.2em;
         text-align: center; 
     }
-    #slide-4 .caption p{
+    .slide-4 .caption p{
         margin-bottom: 90px;
         font-size: 1em;
         text-align: center; 
     }
 
-    #slide-4 .my-address{
+    .slide-4 .my-address{
         font-size: 1em;
     }
 
 }
 @media only screen and (max-width: 365px){
-    #intro p{
+    .intro p{
         margin-left: -75px;
     }
-    #intro p.moving{
+    .intro p.moving{
         margin-left: -75px;
     }
 
-    #slide-2 .caption p{
+    .slide-2 .caption p{
         margin: 6% 5% 0 5% ;
     }
-    #slide-2 .caption.part2 p,{
+    .slide-2 .caption.part2 p,{
         font-size: 1em;
     }
 
